@@ -1,9 +1,38 @@
 import {promises as fs} from 'fs';
 import {importObsidianFile} from "./obsidian-interface";
+import {Priority} from "./obsidian/Priority";
 
 const parseMarkdownToCSV = (markdown: string): string => {
     const tasks = importObsidianFile(markdown, 'path').filter(task => !task.isDone);
 
+    const csvRows = ["TYPE,CONTENT,DESCRIPTION,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG,TIMEZONE,DURATION,DURATION_UNIT"]
+
+
+    for (const task of tasks) {
+        const priority = Number.parseInt(task.priority) + 1;
+
+        const date = task.startDate ? task.startDate.format('MMM D YYYY') : '';
+
+        let recurring = task.recurrence ? task.recurrence.rrule.toText() : '';
+
+        if (task.recurrence?.baseOnToday) {
+            recurring = recurring.replace("every", "every!");
+        }
+
+
+        const row = [
+            'task',
+            task.descriptionWithoutTags,
+            '',
+            priority > 5 ? priority.toString() : "4",
+            "1",
+            "stracharater (10283909)",
+            recurring || date,
+        ];
+        csvRows.push(row.join(','));
+    }
+
+    console.log(csvRows.join('\n'));
 
     return "";
 };
