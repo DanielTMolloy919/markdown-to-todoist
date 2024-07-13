@@ -1,0 +1,1139 @@
+- [ ] #task project - start looking at sharehouse options ➕ 2024-07-13
+- [ ] #task get back to lisa about fulltime offer ➕ 2024-07-12
+- [ ] #task how am I going to divvy up the 3k bonus ➕ 2024-07-10
+- [x] #task sort finances into buckets ➕ 2024-07-10 ✅ 2024-07-13
+- [x] #task how much did the vietnam trip cost total? ➕ 2024-07-09 ✅ 2024-07-09
+- [ ] #task https://news.ycombinator.com/item?id=40788648 ➕ 2024-06-26 🛫 2024-07-10
+- [x] #task Check I’m on an aisle seat on my domestic flight ➕ 2024-06-23 ✅ 2024-07-09
+- [x] #task Practice interview with mum on Thursday ➕ 2024-06-23 📅 2024-06-27 ✅ 2024-07-09
+- [x] #task Tipping in Vietnam ➕ 2024-06-22 📅 2024-06-24 ✅ 2024-06-22
+- [x] #task Tipping in Vietnam? ➕ 2024-06-22 📅 2024-06-24 ✅ 2024-06-22
+- [x] #task how to stop cabinet door squeaking - research ➕ 2024-06-21 🛫 2024-07-10 ✅ 2024-07-13
+- [x] #task signal keep notification for direct messages/calls with lisa on ➕ 2024-06-21 📅 2024-06-24 ✅ 2024-06-22
+- [x] #task charge toothbrush night before ➕ 2024-06-19 📅 2024-06-24 ✅ 2024-06-23
+- [x] #task buy floppy hat - increased risk of sunburn ➕ 2024-06-19 🛫 2024-06-21 📅 2024-06-24 ✅ 2024-06-22
+- [x] #task pack puffy for the flights - can get cold ➕ 2024-06-19 🛫 2024-06-21 📅 2024-06-24 ✅ 2024-06-22
+- [x] #task how am I going to pass the 9 hours on the flight? ➕ 2024-06-19 🛫 2024-06-21 📅 2024-06-24 ✅ 2024-07-09
+- [x] #task text todos kinda suck - make the todo app use sqlite instead? ➕ 2024-06-19 🛫 2024-07-10 ✅ 2024-07-13
+- [x] #task flight online check in ➕ 2024-06-19 🛫 2024-06-21 📅 2024-06-24 ✅ 2024-06-24
+- [ ] #task practice vietnamese 🔁 every day when done ➕ 2024-07-13 🛫 2024-07-14
+- [x] #task practice vietnamese 🔁 every day when done ➕ 2024-07-09 🛫 2024-07-10 ✅ 2024-07-13
+- [x] #task practice vietnamese 🔁 every day when done ➕ 2024-06-22 🛫 2024-06-23 ✅ 2024-07-09
+- [x] #task practice vietnamese 🔁 every day when done ➕ 2024-06-22 🛫 2024-06-18 ✅ 2024-06-22
+- [x] #task practice vietnamese 🔁 every day when done ➕ 2024-06-22 🛫 2024-06-18 📅 2024-06-23 ✅ 2024-06-22
+- [x] #task practice vietnamese 🔁 every day when done ➕ 2024-06-22 🛫 2024-06-18 📅 2024-06-23 ✅ 2024-06-22
+- [x] #task practice vietnamese 🔁 every day when done ➕ 2024-06-22 🛫 2024-06-20 📅 2024-06-25 ✅ 2024-06-22
+- [x] #task practice vietnamese 🔁 every day ➕ 2024-06-19 🛫 2024-06-19 📅 2024-06-24 ✅ 2024-06-22
+- [x] #task practice vietnamese 🔁 every day ➕ 2024-06-19 🛫 2024-06-19 📅 2024-06-24
+- [x] #task I'll also need to take my computer to vietnam for the interview? ➕ 2024-06-16 📅 2024-06-24 ✅ 2024-06-19
+- [ ] #task refill tissues and sano #home ➕ 2024-06-15 🛫 2024-07-10
+- [x] #task Finish off unhook todos and just push it live ➕ 2024-06-15 🛫 2024-07-10 ✅ 2024-07-13
+- [x] #task exactly how much baggage space am I going to need on all my flights ➕ 2024-06-15 📅 2024-06-17 ✅ 2024-06-19
+- [x] #task rejig phone home screen for vietnam - make sure google translate vietnam is installed - grab ➕ 2024-06-15 📅 2024-06-17 ✅ 2024-06-19
+- [x] #task Do i need to register with vietnam police within 24 hours at every place I stay? ➕ 2024-06-15 📅 2024-06-17 ✅ 2024-06-19
+- [x] #task how many masks should i take - make sure mask and nasal spray ➕ 2024-06-15 📅 2024-06-17 ✅ 2024-06-19
+- [x] #task learn 20 basic vietnamese words - and exchange rate ➕ 2024-06-15 📅 2024-06-17 ✅ 2024-06-19
+- [x] #task what vietnam sim card am i going to buy when i get there? ➕ 2024-06-15 📅 2024-06-17 ✅ 2024-06-19
+- [x] #task make sure to put debit card in wallet #home ➕ 2024-06-15 📅 2024-06-17 ✅ 2024-06-19
+- [x] #task print out visa and pack it #home ➕ 2024-06-15 📅 2024-06-17 ✅ 2024-06-19
+- [x] #task sort out roaming before I go ➕ 2024-06-15 📅 2024-06-17 ✅ 2024-06-19
+- [x] #task Malaria drug starts soon ➕ 2024-06-15 ✅ 2024-06-15
+- [ ] #task Clean the dishwasher filter 🔁 every month ➕ 2024-06-15 🛫 2024-07-15
+- [ ] #task research taking jeans to tailor ➕ 2024-06-14 🛫 2024-07-10
+- [x] #task Get some foreign currency ➕ 2024-06-14 📅 2024-06-17 ✅ 2024-06-19
+- [x] #task Add stevia to resources ➕ 2024-06-14 ✅ 2024-06-15
+- [x] #task get clarity on before a potential new columbo interview - why aren't you doing a cybersec major? ➕ 2024-06-12 🛫 2024-06-20 ✅ 2024-07-09
+- [x] #task bring business shirt to vietnam incase of new columbo interview ➕ 2024-06-09 🛫 2024-06-12 📅 2024-06-17 ✅ 2024-06-19
+- [ ] #task Apply for Green P's ➕ 2024-06-08 🛫 2024-07-10
+- [x] #task #uni COMP3851A presentation ➕ 2024-06-03 ✅ 2024-06-10
+- [x] #task cant buy in flight meal for 2EXE33 ➕ 2024-06-02 🛫 2024-06-04 📅 2024-06-17 ✅ 2024-06-19
+- [x] #task check SENG3320 Discord ➕ 2024-06-02 🛫 2024-06-03 ✅ 2024-06-05
+- [x] #task check SENG3320 Discord 🔁 every day ➕ 2024-06-02 🛫 2024-06-02 ✅ 2024-06-02
+- [x] #task Add to Resources list - where each backup lives ➕ 2024-06-02 🛫 2024-06-04 ✅ 2024-06-05
+- [ ] #task Australian Computer Society complementary membership? - check email ➕ 2024-06-01 🛫 2024-07-10
+- [x] #task check that the myuon consent/cultural tasks have gone away ➕ 2024-06-01 🛫 2024-06-03 ✅ 2024-06-02
+- [x] #task re-enable quota subscription ➕ 2024-06-01 🛫 2024-06-12 ✅ 2024-06-13
+- [x] #task Remember I’ve also got presentation for 3851 ➕ 2024-05-26 ✅ 2024-06-01
+- [ ] #task Weekly shopping 🔁 every 2 weeks when done ➕ 2024-07-13 🛫 2024-07-27
+- [x] #task Weekly shopping 🔁 every 2 weeks when done ➕ 2024-07-09 🛫 2024-07-13 ✅ 2024-07-13
+- [x] #task Weekly shopping 🔁 every 2 weeks ➕ 2024-06-15 🛫 2024-06-29 ✅ 2024-07-09
+- [x] #task Weekly shopping 🔁 every 2 weeks ➕ 2024-06-01 🛫 2024-06-15 ✅ 2024-06-15
+- [x] #task Weekly shopping 🔁 every 2 weeks ➕ 2024-06-01 🛫 2024-06-01 ✅ 2024-06-01
+- [ ] #task buy a dryer ➕ 2024-05-27 🛫 2024-07-16
+- [x] #task Enrol in sem 2 before it closes ⏫ ➕ 2024-05-27 📅 2024-06-02 ✅ 2024-05-29
+- [x] #task Remember I’ve also got presentation for 3851 ➕ 2024-05-26 🛫 2024-06-04 ✅ 2024-06-10
+- [x] #task how does github copilot work? ➕ 2024-05-26 ✅ 2024-05-26
+- [x] #task what differentiates between ai products that suck and are actually useful ➕ 2024-05-26 ✅ 2024-05-26
+- [x] #task what ai startups have y combinator funded recently - do I think they are BS? ➕ 2024-05-26 ✅ 2024-05-26
+- [x] #task AI and cybersecurity - a LLM which looks at your codebase and draws on a list of thousands of vulnerabilities - catch things human specialists might miss ➕ 2024-05-26 ✅ 2024-05-26
+- [x] #task what was the platform in that y combinator video? ➕ 2024-05-26 ✅ 2024-05-26
+- [x] #task https://www.reddit.com/r/australia/comments/1czz9k3/comment/l5jr3du/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button ➕ 2024-05-25 ✅ 2024-06-01
+- [x] #task Qprc ➕ 2024-05-20 ✅ 2024-05-21
+- [x] #task Brisbane inner west bayside ➕ 2024-05-20 ✅ 2024-05-21
+- [x] #task talk to Lisa at some point about how i've stretched the truth in the final report ➕ 2024-05-20 📅 2024-06-06 ✅ 2024-06-01
+- [x] prep for tuesday presentation ⏫ ➕ 2024-05-19 🛫 2024-05-21 📅 2024-05-28 ✅ 2024-05-29
+- [x] #task clothes to avoid malaria in vietnam ➕ 2024-05-19 🛫 2024-06-12 📅 2024-06-17 ✅ 2024-06-19
+- [ ] #task Check if i'm a trusted developer - chrome web store ➕ 2024-05-19 🛫 2024-08-13
+- [x] #task figure out what subreddits to post tranquilize on ➕ 2024-05-19 ✅ 2024-05-19
+- [x] #task complete uni compulsory emails by end of sem ➕ 2024-05-18 🛫 2024-05-26 📅 2024-07-05 ✅ 2024-06-01
+- [x] #task night routine - put masks in both bags ➕ 2024-05-18 ✅ 2024-05-18
+- [x] #task swap friday to saturday in 3 weeks - 7 june to 8 june ➕ 2024-05-18 🛫 2024-05-26 ✅ 2024-06-01
+- [ ] #task buy more RATs ➕ 2024-05-18 🛫 2024-07-10
+- [x] #task Take drivers liscence out of wallet ➕ 2024-06-17
+- [x] #task Transport to and from airports ➕ 2024-06-15 🛫 2024-06-21 📅 2024-06-17 ✅ 2024-06-22
+- [x] #task exactly how much baggage space am I going to need on all my flights ➕ 2024-06-15 📅 2024-06-17 ✅ 2024-06-21
+- [x] #task rejig phone home screen for vietnam - make sure google translate vietnam is installed - grab ➕ 2024-06-15 📅 2024-06-17 ✅ 2024-06-19
+- [x] #task Do i need to register with vietnam police within 24 hours at every place I stay? ➕ 2024-06-15 📅 2024-06-17 ✅ 2024-06-25
+- [x] #task how many masks should i take - make sure mask and nasal spray ➕ 2024-06-15 📅 2024-06-17 ✅ 2024-06-23
+- [x] #task learn 20 basic vietnamese words - and exchange rate ➕ 2024-06-15 📅 2024-06-17 ✅ 2024-06-19
+- [x] #task what vietnam sim card am i going to buy when i get there? ➕ 2024-06-15 📅 2024-06-17 ✅ 2024-06-19
+- [x] #task make sure to put debit card in wallet #home ➕ 2024-06-15 📅 2024-06-17 ✅ 2024-06-19
+- [x] #task print out visa and pack it ➕ 2024-06-15 📅 2024-06-17 ✅ 2024-06-19
+- [x] #task sort out roaming before I go ➕ 2024-06-15 📅 2024-06-17 ✅ 2024-06-19
+- [x] #task Malaria drug starts soon ➕ 2024-06-15 ✅ 2024-06-15
+- [ ] #task Clean the dishwasher filter 🔁 every month ➕ 2024-06-15 🛫 2024-07-15
+- [x] #task research taking jeans to tailor ➕ 2024-06-14 🛫 2024-07-06 ✅ 2024-07-09
+- [x] #task Get some foreign currency ➕ 2024-06-14 📅 2024-06-17 ✅ 2024-06-19
+- [x] #task Add stevia to resources ➕ 2024-06-14 ✅ 2024-06-15
+- [x] #task get clarity on before a potential new columbo interview - why aren't you doing a cybersec major? ➕ 2024-06-12 🛫 2024-06-20 ✅ 2024-07-09
+- [x] #task bring business shirt to vietnam incase of new columbo interview ➕ 2024-06-09 🛫 2024-06-12 📅 2024-06-17 ✅ 2024-06-23
+- [x] #task Apply for Green P's ➕ 2024-06-08 🛫 2024-07-04 ✅ 2024-07-09
+- [x] #task #uni COMP3851A presentation ➕ 2024-06-03 ✅ 2024-06-10
+- [x] #task cant buy in flight meal for 2EXE33 ➕ 2024-06-02 🛫 2024-06-04 📅 2024-06-17 ✅ 2024-06-19
+- [x] #task check SENG3320 Discord ➕ 2024-06-02 🛫 2024-06-03 ✅ 2024-06-05
+- [x] #task check SENG3320 Discord 🔁 every day ➕ 2024-06-02 🛫 2024-06-02 ✅ 2024-06-02
+- [x] #task Add to Resources list - where each backup lives ➕ 2024-06-02 🛫 2024-06-04 ✅ 2024-06-05
+- [x] #task Australian Computer Society complementary membership? - check email ➕ 2024-06-01 🛫 2024-06-22 ✅ 2024-07-09
+- [x] #task check that the myuon consent/cultural tasks have gone away ➕ 2024-06-01 🛫 2024-06-03 ✅ 2024-06-02
+- [x] #task re-enable quota subscription ➕ 2024-06-01 🛫 2024-06-12 ✅ 2024-06-13
+- [x] #task Remember I’ve also got presentation for 3851 ➕ 2024-05-26 ✅ 2024-06-01
+- [x] #task Weekly shopping ➕ 2024-06-15 🛫 2024-06-29 ✅ 2024-07-09
+- [x] #task Weekly shopping 🔁 every 2 weeks ➕ 2024-06-01 🛫 2024-06-15 ✅ 2024-06-15
+- [x] #task Weekly shopping 🔁 every 2 weeks ➕ 2024-06-01 🛫 2024-06-01 ✅ 2024-06-01
+- [x] #task buy a dryer ➕ 2024-05-27 🛫 2024-06-24 ✅ 2024-07-09
+- [x] #task Enrol in sem 2 before it closes ⏫ ➕ 2024-05-27 📅 2024-06-02 ✅ 2024-05-29
+- [x] #task Remember I’ve also got presentation for 3851 ➕ 2024-05-26 🛫 2024-06-04 ✅ 2024-06-10
+- [x] #task how does github copilot work? ➕ 2024-05-26 ✅ 2024-05-26
+- [x] #task what differentiates between ai products that suck and are actually useful ➕ 2024-05-26 ✅ 2024-05-26
+- [x] #task what ai startups have y combinator funded recently - do I think they are BS? ➕ 2024-05-26 ✅ 2024-05-26
+- [x] #task AI and cybersecurity - a LLM which looks at your codebase and draws on a list of thousands of vulnerabilities - catch things human specialists might miss ➕ 2024-05-26 ✅ 2024-05-26
+- [x] #task what was the platform in that y combinator video? ➕ 2024-05-26 ✅ 2024-05-26
+- [x] #task https://www.reddit.com/r/australia/comments/1czz9k3/comment/l5jr3du/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button ➕ 2024-05-25 ✅ 2024-06-01
+- [x] #task Qprc ➕ 2024-05-20 ✅ 2024-05-21
+- [x] #task Brisbane inner west bayside ➕ 2024-05-20 ✅ 2024-05-21
+- [x] #task talk to Lisa at some point about how i've stretched the truth in the final report ➕ 2024-05-20 📅 2024-06-06 ✅ 2024-06-01
+- [x] prep for tuesday presentation ⏫ ➕ 2024-05-19 🛫 2024-05-21 📅 2024-05-28 ✅ 2024-05-29
+- [x] #task clothes to avoid malaria in vietnam ➕ 2024-05-19 🛫 2024-06-12 📅 2024-06-17 ✅ 2024-06-22
+- [x] #task Check if i'm a trusted developer - chrome web store ➕ 2024-05-19 🛫 2024-06-19 ✅ 2024-06-19
+- [x] #task figure out what subreddits to post tranquilize on ➕ 2024-05-19 ✅ 2024-05-19
+- [x] #task complete uni compulsory emails by end of sem ➕ 2024-05-18 🛫 2024-05-26 📅 2024-07-05 ✅ 2024-06-01
+- [x] #task night routine - put masks in both bags ➕ 2024-05-18 ✅ 2024-05-18
+- [x] #task swap friday to saturday in 3 weeks - 7 june to 8 june ➕ 2024-05-18 🛫 2024-05-26 ✅ 2024-06-01
+- [x] #task buy more rats ➕ 2024-05-18 🛫 2024-06-29 ✅ 2024-07-09
+- [x] #task 5 metre line, seven ➕ 2024-05-16 ✅ 2024-05-18
+- [x] #task Press, w presss, midfielder, half, fullback ➕ 2024-05-16 ✅ 2024-05-18
+- [x] #task Another name for long corner another name for short corner ➕ 2024-05-16 ✅ 2024-05-18
+- [ ] #task anyone in tech should have their resume in the market - update linkedin and resume on linkedin ➕ 2024-05-16 🛫 2024-07-10
+- [x] #task add manual toothbrush to nighttime checklist ➕ 2024-05-16 🛫 2024-05-21 ✅ 2024-05-21
+- [x] #task Figure out how to tie obe ➕ 2024-05-14 ✅ 2024-05-16
+- [x] #task hang out clothes ➕ 2024-05-14 ✅ 2024-05-16
+- [ ] #task Decide on phrasing to ask lisa for more info about money from sale ➕ 2024-05-14 🛫 2024-07-10
+- [x] #task Work on New Columbo Application - get on this soon so I can send off to be reviewed ⏫ ➕ 2024-05-14 🛫 2024-06-17 📅 2024-06-16 ✅ 2024-06-19
+- [ ] #task Investigate if I want to pivot from japan to signapore or somewhere else - 4 asian tigers ➕ 2024-05-14 🛫 2024-07-12
+- [x] #task track down - Azithromycin and ondansetron if needed for traveller's diarrhoea #home ➕ 2024-05-14 🛫 2024-05-20 ✅ 2024-06-15
+- [x] #task check suitcase then ring up chemist for doxycycline (I will need 2 + 15 + 7 * 4 = 45 tablets total), Azithromycin and ondansetron ➕ 2024-05-16 📅 2024-06-24 ✅ 2024-06-22
+- [x] #task Press, w presss, midfielder, half, fullback ➕ 2024-05-16 ✅ 2024-05-18
+- [x] #task Another name for long corner another name for short corner ➕ 2024-05-16 ✅ 2024-05-18
+- [x] #task anyone in tech should have their resume in the market - update linkedin and resume on linkedin ➕ 2024-05-16 🛫 2024-06-29 ✅ 2024-07-09
+- [x] #task add manual toothbrush to nighttime checklist ➕ 2024-05-16 🛫 2024-05-21 ✅ 2024-05-21
+- [x] #task Figure out how to tie obe ➕ 2024-05-14 ✅ 2024-05-16
+- [x] #task hang out clothes ➕ 2024-05-14 ✅ 2024-05-16
+- [x] #task Decide on phrasing to ask lisa for more info about money from sale ➕ 2024-05-14 🛫 2024-06-29 ✅ 2024-07-09
+- [x] #task Work on New Columbo Application - get on this soon so I can send off to be reviewed ⏫ ➕ 2024-05-14 🛫 2024-06-17 📅 2024-06-16 ✅ 2024-06-17
+- [ ] #task Investigate if I want to pivot from japan to signapore or somewhere else - 4 asian tigers ➕ 2024-05-14 🛫 2024-07-12
+- [x] #task track down - Azithromycin and ondansetron if needed for traveller's diarrhoea #home ➕ 2024-05-14 🛫 2024-05-20 ✅ 2024-06-15
+- [x] #task check suitcase then ring up chemist for doxycycline (I will need 2 + 15 + 7 * 4 = 45 tablets total), Azithromycin and ondansetron 🔼 ➕ 2024-05-14 🛫 2024-06-24 📅 2024-06-17 ✅ 2024-06-24
+- [x] #task Please find at this link more information about rabies: https://www.health.nsw.gov.au/Infectious/factsheets/Pages/rabies-travel.aspx ➕ 2024-05-14 ✅ 2024-05-19
+- [x] #task Please find at this link more information about reducing your risk of malaria: https://www.healthdirect.gov.au/malaria ➕ 2024-05-14 ✅ 2024-05-19
+- [x] #task respond to sapa sisters email ➕ 2024-05-14 🛫 2024-05-16 ✅ 2024-06-02
+- [x] #task [global experience zoom](https://url.au.m.mimecastprotect.com/s/aaSECjZ1B3cN1ZNKCWl8iG?domain=us02web.zoom.us) Passcode: t5F3&T+* ➕ 2024-05-14 🛫 2024-06-29 ✅ 2024-07-09
+- [x] #task What is the parallel parking strategy ➕ 2024-05-14 ✅ 2024-05-14
+- [x] #task https://www.mobileworldlive.com/google/google-opens-first-asia-pacific-cyber-hub-in-japan/ ➕ 2024-05-13 ✅ 2024-05-13
+- [x] #task clarify with lady from NCP - am I still able to submit an early draft before round 1 ⏫ ➕ 2024-05-13 🛫 2024-05-15 ✅ 2024-06-01
+- [x] #task really important to show initiative - new columbo ➕ 2024-05-13 ✅ 2024-05-13
+- [x] #task sort out transport on tuesday ➕ 2024-05-15 📅 2024-05-14 ✅ 2024-05-13
+- [x] #task Deadline for sem 1 exchange is END OF THIS MONTH ➕ 2024-05-12 📅 2024-05-31 ✅ 2024-06-01
+- [x] #task https://github.com/0xbigshaq/firepwn-tool ➕ 2024-05-11 ✅ 2024-05-14
+- [x] #task was 11-15 size socks at big w the correct size ➕ 2024-05-11 🛫 2024-05-18 ✅ 2024-05-18
+- [x] #task write mum's card ⛔️ 31zz63 ➕ 2024-05-11 ✅ 2024-05-11
+- [x] #task print off mum's gift voucher ➕ 2024-05-11 ✅ 2024-05-11
+- [x] #task software to help people write reports easily in word - preloaded list of names? ➕ 2024-05-10 🛫 2024-05-15 ✅ 2024-05-14
+- [x] #task hang out clothes ➕ 2024-05-10 ✅ 2024-05-10
+- [x] #task Buy mums card 🆔 31zz63 ➕ 2024-05-09 🛫 2024-05-11 ✅ 2024-05-11
+- [x] #task set up devices other than the ipad for danieltmolloy919 ➕ 2024-05-09 🛫 2024-05-10 ✅ 2024-05-10
+- [x] #task 4 asian tigers ➕ 2024-05-08 🛫 2024-05-12 ✅ 2024-05-14
+- [x] #task Replace sheets ➕ 2024-05-08 🛫 2024-05-10 ✅ 2024-05-10
+- [x] #task https://www.reddit.com/r/meirl/comments/1cmd4rz/comment/l2zxm7m/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button ➕ 2024-05-08 🛫 2024-05-12 ✅ 2024-05-14
+- [ ] #task Argument for time tracking- exactly how much am I work working? And do I want to change that ➕ 2024-05-07 🛫 2024-07-18
+- [ ] #task Lisa's Question: Is there anything I can do to make you stay after uni ➕ 2024-05-07 🛫 2024-07-10
+- [ ] #task Lisa's Question: Will you be staying after uni or do we have to start finding someone else ➕ 2024-05-07 🛫 2024-07-10
+- [ ] #task Argument for time tracking- exactly how much am I work working? And do I want to change that ➕ 2024-05-07 🛫 2024-07-10
+- [x] #task Miserable shopping experience, sign up for Colses delivery ➕ 2024-05-05 ✅ 2024-05-06
+- [x] #task get vaccines from chemist ➕ 2024-05-05 🛫 2024-05-07 ✅ 2024-05-08
+- [x] #task make sure i'm getting food on the vietjet international flight ➕ 2024-05-05 🛫 2024-05-12 ✅ 2024-06-02
+- [x] #task https://careerhub.newcastle.edu.au/s/careerhub/jobs/detail/1138836/tencent-intern ➕ 2024-05-05 🛫 2024-06-22 📅 2024-06-25 ✅ 2024-07-09
+- [ ] #task beg scavenge and steal to get to san fran ➕ 2024-05-05 🛫 2024-07-10
+- [x] #task Finish off project tranquilize ➕ 2024-05-05 🛫 2024-05-16 ✅ 2024-05-18
+- [x] #task what are MY priorities for the following sunday and week - do this every week? ➕ 2024-05-04 ✅ 2024-05-05
+- [x] #task present for mother's day ➕ 2024-05-04 ✅ 2024-05-09
+- [ ] #task So any newy academics have any connections to IT in the Bay Area ➕ 2024-05-04 🛫 2024-07-10
+- [ ] #task Possibility of transferring to different uni with san Fran connection? ➕ 2024-05-04 🛫 2024-07-10
+- [ ] #task Apply for anywhere in America in sem 1 - being on the ground opens opportunities ➕ 2024-05-04 🛫 2024-07-10
+- [x] #task Next global experience meeting - ask about Silicon Valley ➕ 2024-05-04 🛫 2024-05-12 ✅ 2024-05-14
+- [x] #task Decision about docs graduation ➕ 2024-05-03 🛫 2024-05-10 ✅ 2024-05-10
+- [x] #task Sabrina ➕ 2024-05-02 ✅ 2024-05-05
+- [ ] #task Ask Anna for advice about what to say to Lisa about work perks ➕ 2024-04-27 🛫 2024-07-10
+- [x] #task is tokyo acutally the tech hub in asia? ➕ 2024-04-25 🛫 2024-05-12 ✅ 2024-05-14
+- [x] #task https://careerhub.newcastle.edu.au/s/careerhub/jobs/detail/1135962/software-engineer-intern-2024- ➕ 2024-04-25 🛫 2024-05-11 📅 2024-05-12 ✅ 2024-05-13
+- [ ] #task Take a look through [careerhub opportunities](https://careerhub.newcastle.edu.au/s/careerhub/jobs/search?page=1&take=1000) - [last job](https://careerhub.newcastle.edu.au/s/careerhub/jobs/detail/1140958/graduate-consultant) 🔁 every 3 days when done ➕ 2024-05-14 🛫 2024-07-10
+- [x] #task Take a look through [careerhub opportunities](https://careerhub.newcastle.edu.au/s/careerhub/jobs/search?page=1&take=1000) - [last job](https://careerhub.newcastle.edu.au/s/careerhub/jobs/detail/1140958/graduate-consultant) 🔁 every 3 days when done ➕ 2024-05-11 🛫 2024-05-14 ✅ 2024-05-14
+- [x] #task Take a look through [careerhub opportunities](https://careerhub.newcastle.edu.au/s/careerhub/jobs/search?page=1&take=1000) - [last job](https://careerhub.newcastle.edu.au/s/careerhub/jobs/detail/1140958/graduate-consultant) 🔁 every 3 days when done ➕ 2024-05-08 🛫 2024-05-11 ✅ 2024-05-11
+- [x] #task Take a look through [careerhub opportunities](https://careerhub.newcastle.edu.au/s/careerhub/jobs/search?page=1&take=1000) - [last job](https://careerhub.newcastle.edu.au/s/careerhub/jobs/detail/1139696/nuclear-medicine-technologist) 🔁 every 3 days when done ➕ 2024-05-05 🛫 2024-05-08 ✅ 2024-05-08
+- [x] #task Take a look through [careerhub opportunities](https://careerhub.newcastle.edu.au/s/careerhub/jobs/search?page=1&take=1000) - [last job](https://careerhub.newcastle.edu.au/s/careerhub/jobs/detail/1139439/recruitment-academy-consultant) 🔁 every 3 days when done ➕ 2024-04-28 🛫 2024-05-01 ✅ 2024-05-05
+- [x] #task Take a look through [careerhub opportunities](https://careerhub.newcastle.edu.au/s/careerhub/jobs/search?page=1&take=1000) - [last job](https://careerhub.newcastle.edu.au/s/careerhub/jobs/detail/1137705/casual-maths-tutor-no-experien) 🔁 every 3 days when done ➕ 2024-04-28 🛫 2024-04-28 ✅ 2024-04-28
+- [x] #task Take a look through [careerhub opportunities](https://careerhub.newcastle.edu.au/s/careerhub/jobs/search?page=1&take=1000) - [last job](https://careerhub.newcastle.edu.au/s/careerhub/jobs/detail/1137705/casual-maths-tutor-no-experien) 🔁 every 3 days ➕ 2024-04-25 🛫 2024-04-25 ✅ 2024-04-28
+- [ ] #task Work through to inbox 0 🔁 every 3 days when done ➕ 2024-07-13 🛫 2024-07-16
+- [x] #task Work through to inbox 0 🔁 every 3 days when done ➕ 2024-07-09 🛫 2024-07-12 ✅ 2024-07-13
+- [x] #task Work through to inbox 0 🔁 every 3 days when done ➕ 2024-06-14 🛫 2024-06-17 ✅ 2024-07-09
+- [x] #task Work through to inbox 0 🔁 every 3 days when done ➕ 2024-06-01 🛫 2024-06-12 ✅ 2024-06-14
+- [x] #task Work through to inbox 0 🔁 every 3 days when done ➕ 2024-05-14 🛫 2024-05-17 ✅ 2024-06-01
+- [x] #task Work through to inbox 0 🔁 every 3 days when done ➕ 2024-05-02 🛫 2024-05-12 ✅ 2024-05-14
+- [x] #task Work through to inbox 0 🔁 every 3 days when done ➕ 2024-04-28 🛫 2024-05-01 ✅ 2024-05-02
+- [x] #task Work through to inbox 0 🔁 every 3 days when done ➕ 2024-04-25 🛫 2024-04-25 ✅ 2024-04-28
+- [ ] #task figure out the exact size shirts should fit on your body ➕ 2024-04-25 🛫 2024-07-10
+- [x] #task Respond to Andrew in discord ➕ 2024-04-23 🛫 2024-04-26 ✅ 2024-04-28
+- [x] #task separate out work emails to different account ➕ 2024-04-23 🛫 2024-05-12 ✅ 2024-05-14
+- [x] #task Check in with teams chat ➕ 2024-04-23 ✅ 2024-04-23
+- [x] #task Work on friday global experience meeting ➕ 2024-04-28 📅 2024-04-29 ✅ 2024-04-28
+- [x] #task Work on friday global experience meeting 🔁 every day when done ➕ 2024-04-28 📅 2024-04-29 ✅ 2024-04-28
+- [x] #task Work on friday global experience meeting 🔁 every day when done ➕ 2024-04-28 📅 2024-04-29 ✅ 2024-04-28
+- [x] #task Work on friday global experience meeting 🔁 every day when done ➕ 2024-04-28 📅 2024-04-29 ✅ 2024-04-28
+- [x] #task Work on friday global experience meeting 🔁 every day when done ➕ 2024-04-28 📅 2024-04-29 ✅ 2024-04-28
+- [x] #task Work on friday global experience meeting 🔁 every day when done ➕ 2024-04-22 🛫 2024-04-22 📅 2024-04-26 ✅ 2024-04-28
+- [x] #task order mum's harness ➕ 2024-04-22 ✅ 2024-04-22
+- [x] #task Book in booster shots at MMC ➕ 2024-04-21 🛫 2024-04-26 ✅ 2024-05-05
+- [x] #task Book in for 2 vaccines I need ➕ 2024-04-20 🛫 2024-04-22 ✅ 2024-04-21
+- [x] #task 11am Thursday 9th may pickup in kincumber, mums fracture clinic might be driving ➕ 2024-04-20 ✅ 2024-04-20
+- [x] #task Bring zip ties ➕ 2024-04-19 ✅ 2024-04-20
+- [x] #task Open at 9am, bring two shopping bags - 2 5kgs under Elaine Murray ➕ 2024-04-19 ✅ 2024-04-20
+- [ ] #task Uni does offer a lot of six month contract jobs for when I get back from sem exchange - some of them may be part time? ➕ 2024-04-15 🛫 2024-07-10
+- [x] #task follow up on medicare rebate for doc appointment on apr 8 ➕ 2024-04-08 🛫 2024-04-11 ✅ 2024-04-18
+- [x] #task sun sensitivity in vietnam - malaria meds ➕ 2024-04-07 ✅ 2024-04-18
+- [x] #task Fuzzy text to iCal importer ➕ 2024-04-05 ✅ 2024-04-07
+- [x] #task CIS Australia Summer 2024-2025 Global experience Programs Online Info Session 11 April 2024 ➕ 2024-04-05 ✅ 2024-04-18
+- [x] #task superglue ipad cable to side of drawer ➕ 2024-04-04 ✅ 2024-04-18
+- [x] #task Maybe I specialise in hard to maintain software as well? ➕ 2024-04-03 ✅ 2024-04-03
+- [ ] #task interviews are outside the comfort zone so for my 'big 2025' project, I need to make progress very bitesized #high_energy ➕ 2024-04-02 🛫 2024-07-10
+- [ ] #task be open to a different shape to 2025- keep an eye out for interesting jobs/scholarship - bottom line START APPLYING TO SHIT #high_energy ➕ 2024-04-02 🛫 2024-07-10
+- [x] #task Ring up soundcore people ➕ 2024-04-02 🛫 2024-05-02 ✅ 2024-05-05
+- [x] #task Interviews is a skill I need to start building ASAP ➕ 2024-04-02 ✅ 2024-04-03
+- [x] #task DVT on long trips ➕ 2024-04-01 ✅ 2024-04-03
+- [x] #task restart powder shipments ➕ 2024-03-25 ✅ 2024-03-29
+- [x] #task Big w run to get more versions of that maroon hoodie and socks ➕ 2024-03-28 🛫 2024-05-12 ✅ 2024-05-14
+- [x] #task weekly check of resources ➕ 2024-03-28 ✅ 2024-03-29
+- [x] #task Fix up neck and cross thigh card- more descriptive #home ➕ 2024-03-26 ✅ 2024-04-18
+- [x] #task Add reverse throws to cards #home ➕ 2024-03-26 ✅ 2024-04-18
+- [x] #task turn on pdf sync on desktop ➕ 2024-03-26 ✅ 2024-03-29
+- [x] #task useful framing - thinking about how to train the deep work muscle ➕ 2024-03-24 🛫 2024-04-19 ✅ 2024-04-20
+- [ ] #task how to i made work vs gaming feel distinct? Keeping the work area clean ➕ 2024-03-24 🛫 2024-07-10
+- [x] #task Wrap Anna present ➕ 2024-03-24 ✅ 2024-03-26
+- [x] #task Talk to simmo about japan ➕ 2024-03-23 🛫 2024-06-12 ✅ 2024-06-14
+- [x] #task Abstention 👀 ➕ 2024-03-23 🛫 2024-03-25 ✅ 2024-03-29
+- [x] #task Separate card - what is cyclomatic complexity measuring ➕ 2024-03-21 ✅ 2024-03-22
+- [x] #task Maybe an explicit card for difference in writing MCC and condition tests ➕ 2024-03-21 ✅ 2024-03-22
+- [x] #task Acryonum for this type of coverage implies the next - path branch statement - PBS ➕ 2024-03-21 ✅ 2024-03-22
+- [x] #task Formula for number of tests you need in MCDC ➕ 2024-03-21 ✅ 2024-03-22
+- [x] #task Learnt from 3320 workshop - cc and c/dc coverage can often be achieved with conditions being all true, then all false ➕ 2024-03-21 ✅ 2024-03-22
+- [x] #task Add Brendan’s cheat codes to cards ➕ 2024-03-21 ✅ 2024-03-22
+- [x] #task Fix weird JavaScript cards rendering ➕ 2024-03-18 ✅ 2024-03-23
+- [x] #task 200 for mum ➕ 2024-03-16 ✅ 2024-03-16
+- [x] #task watch mum's video ➕ 2024-03-14 ✅ 2024-03-16
+- [x] #task What am i saying on friday? 🔺 ➕ 2024-03-13 🛫 2024-03-21 📅 2024-03-15 ✅ 2024-03-22
+- [x] #task See doc soon for vaccines ➕ 2024-03-13 🛫 2024-03-19 ✅ 2024-03-22
+- [x] #task action hockey email ➕ 2024-03-11 🛫 2024-03-15 ✅ 2024-03-16
+- [x] #task Cross stomach? ➕ 2024-03-11 ✅ 2024-03-13
+- [x] #task Present for Anna #high_energy ➕ 2024-03-10 🛫 2024-03-19 ✅ 2024-03-19
+- [x] #task Connecting in with Japanese culture - jujutsu ➕ 2024-03-09 ✅ 2024-03-10
+- [ ] #task Reach out to guy who did cybersecurity previously ➕ 2024-03-09 🛫 2024-07-10
+- [x] #task Is dad interested in having Phoebe over Easter ➕ 2024-03-09 🛫 2024-03-11 ✅ 2024-03-16
+- [x] #task Seng3320 has two lectures ➕ 2024-03-07 ✅ 2024-03-07
+- [x] #task INFT3800 Workshop Week 2 🔽 ➕ 2024-03-06 🛫 2024-04-04 ✅ 2024-04-04
+- [x] #task Book any day trips or events I want to do at any of the places ➕ 2024-05-11 🛫 2024-05-18 📅 2024-06-17 ✅ 2024-07-09
+- [x] #task book something for vietnam 🔁 every day when done ➕ 2024-04-21 🛫 2024-04-22 ✅ 2024-05-11
+- [x] #task book something for vietnam 🔁 every day when done ➕ 2024-03-09 🛫 2024-03-25 ✅ 2024-04-21
+- [x] #task Find fun things to do in vietnam 🔁 every day when done ➕ 2024-03-09 🛫 2024-03-08 ✅ 2024-03-09
+- [x] #task Find fun things to do in vietnam 🔁 every day ➕ 2024-03-06 🛫 2024-03-07 ✅ 2024-03-09
+- [x] #task Book accomodation in saigon 🆔 c2mhzc ➕ 2024-03-06 🛫 2024-03-07 ✅ 2024-03-09
+- [x] #task Quarter strangle 1 is wrong ➕ 2024-03-06 ✅ 2024-03-06
+- [x] #task Fix up another name for anki cards ➕ 2024-03-06 ✅ 2024-03-06
+- [x] #task Fix up speedthrows anki card ➕ 2024-03-06 ✅ 2024-03-06
+- [x] #task deal with the emails i haven't archived ➕ 2024-03-06 ✅ 2024-03-06
+- [x] #task https://www.youtube.com/watch?v=j6DG1NqgkSU&t=32s ➕ 2024-03-06 🛫 2024-03-07 ✅ 2024-03-10
+- [x] #task IMPORTANT - think about how you're going to practice interviews ➕ 2024-03-05 🛫 2024-03-07 ✅ 2024-03-10
+- [x] #task Write speedthrows in grading form ➕ 2024-03-04 ✅ 2024-03-04
+- [x] #task let lisa know about trip plans soon #winter_trip ➕ 2024-03-03 🛫 2024-03-18 ✅ 2024-03-23
+- [x] #task Keep rss feed for longer than a month ➕ 2024-03-03 ✅ 2024-03-05
+- [x] #task Pick up air tags soon ➕ 2024-03-03 ✅ 2024-03-05
+- [x] #task book in to get vaccinations soon ➕ 2024-03-02 🛫 2024-03-07 ✅ 2024-03-08
+- [x] #task Check on visa application status ⛔️ c2mhzc ➕ 2024-03-02 🛫 2024-03-17 ✅ 2024-03-17
+- [x] #task book vietnam accomodation soon ➕ 2024-03-02 🛫 2024-03-07 ✅ 2024-03-09
+- [ ] #task Invoices 🔁 every week on Friday when done ➕ 2024-07-13 🛫 2024-07-19
+- [x] #task Invoices 🔁 every week on Friday when done ➕ 2024-07-09 🛫 2024-07-12 ✅ 2024-07-13
+- [x] #task Invoices 🔁 every week on Friday when done ➕ 2024-07-09 🛫 2024-06-28 ✅ 2024-07-09
+- [x] #task Invoices 🔁 every week on Friday ➕ 2024-06-14 🛫 2024-06-21 ✅ 2024-07-09
+- [x] #task Invoices 🔁 every week on Friday ➕ 2024-06-10 🛫 2024-06-14 ✅ 2024-06-14
+- [x] #task Invoices 🔁 every week on Friday ➕ 2024-06-01 🛫 2024-06-07 ✅ 2024-06-10
+- [x] #task Invoices 🔁 every week on Friday ➕ 2024-06-01 🛫 2024-05-31 ✅ 2024-06-01
+- [x] #task Invoices 🔁 every week on Friday ➕ 2024-05-18 🛫 2024-05-24 ✅ 2024-06-01
+- [x] #task Invoices 🔁 every week on Friday ➕ 2024-05-10 🛫 2024-05-17 ✅ 2024-05-18
+- [x] #task Invoices 🔁 every week on Friday ➕ 2024-04-28 🛫 2024-05-10 ✅ 2024-05-10
+- [x] #task Invoices 🔁 every week on Friday ➕ 2024-04-20 🛫 2024-04-26 ✅ 2024-04-28
+- [x] #task Invoices 🔁 every week on Friday ➕ 2024-04-18 🛫 2024-04-19 ✅ 2024-04-20
+- [x] #task Invoices 🔁 every week on Friday ➕ 2024-04-18 🛫 2024-04-12 ✅ 2024-04-18
+- [x] #task Invoices 🔁 every week on Friday ➕ 2024-03-29 🛫 2024-04-09 ✅ 2024-04-18
+- [x] #task Invoices 🔁 every week on Friday ➕ 2024-03-29 🛫 2024-03-29 ✅ 2024-03-29
+- [x] #task Invoices 🔁 every week on Friday ➕ 2024-03-12 🛫 2024-03-27 ✅ 2024-03-29
+- [x] #task Invoices 🔁 every week on Friday ➕ 2024-03-03 🛫 2024-03-11 ✅ 2024-03-12
+- [x] #task Invoices 🔁 every week on Friday ➕ 2024-03-01 🛫 2024-03-01 ✅ 2024-03-03
+- [x] #task Git versioning for laymen? Random office monkey using word ➕ 2024-02-28 ✅ 2024-02-29
+- [x] #task #sem_exchange #high_energy given the os-help loan requirement of 10 units, whats my plan for if I don't get new columbo? ➕ 2024-02-28 🛫 2024-06-12 ✅ 2024-06-14
+- [x] #task Defrag new columbo notes ➕ 2024-02-28 🛫 2024-03-06 ✅ 2024-03-10
+- [x] #task Hang up curtain rod #home ➕ 2024-02-27 🛫 2024-03-05 ✅ 2024-03-09
+- [x] #task add watching 3851 lectures and workshops to uni tasks, and INFT stuff ➕ 2024-02-27 ✅ 2024-02-27
+- [x] #task add insulation to the ceiling? ➕ 2024-02-27 🛫 2024-03-07 ✅ 2024-03-09
+- [x] #task Newcastle coders group ➕ 2024-02-26 🛫 2024-03-06 ✅ 2024-03-09
+- [x] #task respond to WIL email ➕ 2024-02-26 🛫 2024-02-28 ✅ 2024-02-29
+- [x] #task anything else I want to ask for the global experience meeting tomorrow? ➕ 2024-02-26 ✅ 2024-02-28
+- [x] #task Typescript type definition doesn’t include commas ➕ 2024-02-25 ✅ 2024-02-25
+- [x] #task Reactive vs declarative vs imperative ➕ 2024-02-25 ✅ 2024-02-25
+- [x] #task Work on [[202111222025 - Project Ideas Note|Project Ideas]] ➕ 2024-04-21 🛫 2024-04-22 ✅ 2024-04-21
+- [x] #task Work on [[202111222025 - Project Ideas Note|Project Ideas]] 🔁 every day when done ➕ 2024-04-20 🛫 2024-04-22 ✅ 2024-04-21
+- [x] #task Work on [[202111222025 - Project Ideas Note|Project Ideas]] 🔁 every day when done ➕ 2024-04-20 🛫 2024-04-21 ✅ 2024-04-20
+- [x] #task Work on [[202111222025 - Project Ideas Note|Project Ideas]] 🔁 every day when done ➕ 2024-04-20 🛫 2024-04-21 ✅ 2024-04-20
+- [x] #task Work on [[202111222025 - Project Ideas Note|Project Ideas]] 🔁 every day when done ➕ 2024-04-20 🛫 2024-04-21 ✅ 2024-04-20
+- [x] #task Work on [[202111222025 - Project Ideas Note|Project Ideas]] 🔁 every day when done ➕ 2024-03-02 🛫 2024-04-04 ✅ 2024-04-20
+- [x] #task Work on [[202111222025 - Project Ideas Note|Project Ideas]] 🔁 every day when done ➕ 2024-02-24 🛫 2024-03-01 ✅ 2024-03-02
+- [x] #task sort out work notifications once and for all ➕ 2024-02-24 🛫 2024-03-07 ✅ 2024-03-10
+- [x] #task what day of the week is gym day ➕ 2024-02-23 🛫 2024-03-25 ✅ 2024-04-03
+- [x] #task research bluetooth - why does it suck? ➕ 2024-02-23 ✅ 2024-02-24
+- [x] #task Solving the problem of keeping many systems up to date for councils ➕ 2024-02-22 ✅ 2024-02-24
+- [x] #task buy reserve stash of non-specific cards for birthdayetc ➕ 2024-02-21 🛫 2024-03-02 ✅ 2024-03-02
+- [x] #task LLMs areI still difficult and annoying to work with, much like the early days of Web Apps. Maybe worth investigating more? ➕ 2024-02-21 ✅ 2024-02-24
+- [x] #task Hydration powder https://youtu.be/PESB9Q-Q7N8?si=ndzDR3-maOITbB52 ➕ 2024-02-17 ✅ 2024-02-23
+- [x] #task Get rid of all the white underwear ➕ 2024-02-17 🛫 2024-02-19 ✅ 2024-02-23
+- [x] #task Buy water bottle designed for ice ➕ 2024-02-17 ✅ 2024-02-19
+- [x] #task Pick classes for sem 1 ⏫ ➕ 2024-02-17 ✅ 2024-02-19
+- [x] #task set more rigid hours with lisa - excuse of going back to uni soon ➕ 2024-02-15 🛫 2024-04-28 ✅ 2024-05-05
+- [x] #task https://www.lennysnewsletter.com/p/adding-a-work-trial-to-your-interview ➕ 2024-02-13 🛫 2024-03-02 ✅ 2024-03-02
+- [x] #task Book airbnb ➕ 2024-02-12 ✅ 2024-02-13
+- [x] #task How many months salary do I have in reserve? Minus contributions to investments ➕ 2024-02-12 🛫 2024-02-19 ✅ 2024-02-19
+- [x] #task Get small suitcase from Kmart ➕ 2024-02-11 ✅ 2024-02-12
+- [x] #task bring earplugs with me to Brisbane ➕ 2024-02-11 ✅ 2024-02-13
+- [x] #task Message auntie colleen ➕ 2024-02-10 ✅ 2024-02-13
+- [x] #task Sign up for winter hockey ➕ 2024-02-07 ✅ 2024-02-23
+- [x] #task Hang out umbrella ➕ 2024-02-07 ✅ 2024-02-07
+- [x] #task finish off postpone PR ➕ 2024-02-06 ✅ 2024-02-10
+- [x] #task Find homes for things on desk #home ➕ 2024-02-06 🛫 2024-04-23 ✅ 2024-04-23
+- [x] #task move pc down off the desk #home ➕ 2024-02-06 ✅ 2024-02-10
+- [x] #task Clean up cobwebs in room #home ➕ 2024-02-05 ✅ 2024-02-06
+- [x] #task Add sunscreen to morning routine ➕ 2024-02-05 ✅ 2024-02-06
+- [x] #task invoices ➕ 2024-02-05 ✅ 2024-02-06
+- [x] #task do a cull of what I can take off the mac ➕ 2024-02-04 ✅ 2024-02-06
+- [x] #task Make cheese a resource ➕ 2024-02-03 ✅ 2024-02-04
+- [x] #task #winter_trip Get a sense for average cheapest flights to places in asia ➕ 2024-02-03 🛫 2024-02-19 ✅ 2024-02-24
+- [x] #task Message mum about Saturday ➕ 2024-02-03 ✅ 2024-02-03
+- [x] #task Check out Bunbury ➕ 2024-02-03 ✅ 2024-02-03
+- [x] #task respond to clare ➕ 2024-02-02 ✅ 2024-02-03
+- [x] #task fix close window shortcut in webstorm/rubymine ➕ 2024-02-01 🛫 2024-02-03 ✅ 2024-02-03
+- [x] #task Replace sheets before Anna comes over ➕ 2024-02-01 ✅ 2024-02-01
+- [x] #task Longer power and HDMI cables for PC ➕ 2024-02-01 ✅ 2024-02-01
+- [x] #task Ross river virus ➕ 2024-01-28 ✅ 2024-01-31
+- [x] #task Why have I got extra money in my everyday account 🛫 2024-02-14 ✅ 2024-02-24
+- [x] #task Leave kitchen scales in the letter box for mum next week ➕ 2024-01-26 ✅ 2024-01-31
+- [x] #task Buy door snake ➕ 2024-01-26 🛫 2024-01-27 ✅ 2024-01-31
+- [x] #task tell dad about invoices done ➕ 2024-01-25 🛫 2024-01-26 ✅ 2024-01-31
+- [x] #task invoices ➕ 2024-01-25 ✅ 2024-01-25
+- [x] #task Dad Invoices ➕ 2024-01-22 ✅ 2024-01-23
+- [x] #task has every 6th kyu technique been added to anki? ➕ 2024-01-22 ✅ 2024-01-25
+- [ ] #task Go for a walk and do flash cards 🔁 every day when done ➕ 2024-05-18 🛫 2024-07-10
+- [x] #task Go for a walk and do flash cards 🔁 every day when done ➕ 2024-03-26 🛫 2024-05-12 ✅ 2024-05-18
+- [x] #task Go for a walk and do flash cards 🔁 every day when done ➕ 2024-03-17 🛫 2024-03-18 ✅ 2024-03-26
+- [x] #task Go for a walk and do flash cards 🔁 every day when done ➕ 2024-03-10 🛫 2024-03-13 ✅ 2024-03-17
+- [x] #task Go for a walk and do flash cards 🔁 every day when done ➕ 2024-03-09 🛫 2024-03-10 ✅ 2024-03-10
+- [x] #task Go for a walk and do flash cards 🔁 every day when done ➕ 2024-03-06 🛫 2024-03-07 ✅ 2024-03-09
+- [x] #task Go for a walk and do flash cards 🔁 every day when done ➕ 2024-01-22 🛫 2024-03-06 ✅ 2024-03-06
+- [x] #task Add speedthrows to cards ➕ 2024-01-22 🛫 2024-03-01 ✅ 2024-03-03
+- [x] #task Add in another screw perpendicularly to hold up curtain ➕ 2024-01-22 ✅ 2024-01-25
+- [ ] #task Investigate food at other crystalbrook collection restaurants 🔽 ➕ 2024-01-21 🛫 2024-07-10
+- [x] #task make floatilla booking for sat 10th evening ➕ 2024-01-21 🛫 2024-01-22 ✅ 2024-01-22
+- [x] #task fix power meter #home 🔽 ➕ 2024-01-21 🛫 2024-03-25 ✅ 2024-04-20
+- [x] #task refill soap dispenser ➕ 2024-01-20 ✅ 2024-01-21
+- [x] #task Get my own screwdriver ➕ 2024-01-20 ✅ 2024-01-20
+- [x] #task Add postpone default functionality issue to GitHub ➕ 2024-01-20 🛫 2024-01-21 ✅ 2024-01-21
+- [x] #task Packing cubes for daily bags? ➕ 2024-01-20 🛫 2024-01-22 ✅ 2024-01-25
+- [x] #task Add mask to both bags ➕ 2024-01-20 ✅ 2024-01-20
+- [x] #task Use up one of the food vouchers with Anna on Wednesday? ➕ 2024-01-20 ✅ 2024-01-21
+- [x] #task Add dish cloths to resources ➕ 2024-01-19 ✅ 2024-01-20
+- [x] #task What do i need to drill into my walls? ➕ 2024-01-18 ✅ 2024-01-20
+- [x] #task limit powder to once per day - maybe a frozen meal for dinner or lunch? ➕ 2024-01-18 🛫 2024-01-27 ✅ 2024-01-31
+- [ ] #task Investigate tape to hide cables away ➕ 2024-01-14 🛫 2024-07-10
+- [x] #task dad invoices ➕ 2024-01-14 ✅ 2024-01-15
+- [ ] #task Get Flu Vaccine 🔼 🔁 every year ➕ 2024-04-04 🛫 2025-04-04
+- [x] #task Get Flu Vaccine 🔼 🔁 every year ➕ 2024-01-14 🛫 2024-04-04 ✅ 2024-04-04
+- [x] #task Uni days discount ➕ 2024-01-14 🛫 2024-02-01 ✅ 2024-02-03
+- [x] #task How is my opal card application going ➕ 2024-01-14 🛫 2024-03-09 ✅ 2024-03-09
+- [x] #task Review what projects I want done by semester start ➕ 2024-01-13 🛫 2024-02-01 ✅ 2024-02-19
+- [x] #task Audible book - read up on how to run a business - rockafeller ➕ 2024-01-13 🛫 2024-01-16 ✅ 2024-01-16
+- [x] #task Do I want to turn payments to CMC again ➕ 2024-01-13 🛫 2024-02-20 ✅ 2024-02-23
+- [x] #task Downsides of no veggies despite powder ➕ 2024-01-13 ✅ 2024-01-13
+- [x] #task Log into pet registry ➕ 2024-01-12 ✅ 2024-01-13
+- [x] #task Restart gratitude journal ➕ 2024-01-12 ✅ 2024-01-13
+- [x] #task Reverify to keep your student discount ➕ 2024-01-12 ✅ 2024-01-14
+- [x] #task take dimensions of potential dog bed and verify with mum 🆔 b2p0iw ➕ 2024-01-10 🛫 2024-04-04 ✅ 2024-04-18
+- [x] #task Chat about future on sat 🔺 ➕ 2024-01-09 🛫 2024-03-15 ✅ 2024-03-16
+- [x] #task Buy more throat spray for next bad throat infection ➕ 2024-01-07 🛫 2024-01-17 ✅ 2024-01-20
+- [x] #task Get rid of the charging station that works 95% of the time URGENTLY ➕ 2024-01-07 ✅ 2024-01-10
+- [x] #task Meal replacement diahhorea ➕ 2024-01-06 ✅ 2024-01-09
+- [x] #task Give Audrey a heads up about phoebe ➕ 2024-01-06 🛫 2024-01-17 ✅ 2024-01-21
+- [x] #task Some padding at the bottom of the stairs? ➕ 2024-01-06 ✅ 2024-01-13
+- [x] #task Evening walk with Anna first Saturday of muppety being over ➕ 2024-01-06 ✅ 2024-01-10
+- [x] #task Think about morning routine with muppety ➕ 2024-01-06 📅 2024-01-12 ✅ 2024-01-13
+- [x] #task Start making plans for winter holiday ➕ 2024-01-05 🛫 2024-02-01 ✅ 2024-02-24
+- [x] #task Get eggplants for lasagne ➕ 2024-01-04 🛫 2024-01-06 ✅ 2024-01-09
+- [x] #task https://github.com/donnemartin/system-design-primer ➕ 2024-01-03 ✅ 2024-01-04
+- [x] #task https://github.com/movie-web/movie-web ➕ 2024-01-03 ✅ 2024-01-03
+- [ ] #task Your quarterly focus is unset - think about a theme ➕ 2024-01-02 🛫 2024-07-10
+- [x] #task Buy automatic ice maker ➕ 2024-01-01 ✅ 2024-01-04
+- [x] #task Ensure all books are downloaded on tablet ➕ 2023-12-19 ✅ 2023-12-19 ⤵️ 8kf48x
+- [x] #task More books for on the cruise ➕ 2023-12-19 ✅ 2023-12-19 🆔 jlfbjv
+- [x] #task What do we want to do Thursday evening ➕ 2023-12-19 ✅ 2023-12-30
+- [x] #task What train do we want to get thursday ➕ 2023-12-19 ✅ 2023-12-19
+- [x] #task Christmas present Anna ⏫ ➕ 2023-12-17 ✅ 2023-12-19
+- [x] #task Broach moving in together with anna ➕ 2023-12-17 🛫 2024-01-04 ✅ 2024-01-09
+- [x] #task Respond to Lisa email ➕ 2023-12-17 ✅ 2023-12-17
+- [x] #task Remember to download I can’t sleep podcast episodes ➕ 2023-12-14 ✅ 2023-12-19
+- [x] #task Am I making any food for Friday night? ➕ 2023-12-13 ✅ 2023-12-16
+- [x] #task tell dad about friday night dr who watch ➕ 2023-12-13 ✅ 2023-12-16
+- [x] #task choose boots to buy on the weekend ➕ 2023-12-13 ✅ 2023-12-16
+- [x] #task Blackout curtain for room ➕ 2023-12-13 🛫 2024-01-17 ✅ 2024-01-16
+- [x] #task rejig budget after payrise, taking into account estimated water and electricity billi ➕ 2023-12-13 🛫 2024-01-13 ✅ 2024-01-13
+- [x] #task 185 + 300 for water and electricity ➕ 2023-12-12 🛫 2023-12-13 ✅ 2023-12-13
+- [x] #task What is the annual inflation rate 2023 ➕ 2023-12-12 ✅ 2023-12-13
+- [x] #task When do I get onto green P’s ➕ 2023-12-12 ✅ 2023-12-13
+- [ ] #task Does anything need to be chucked out of the fridge? #home 🔁 every week on Friday when done ➕ 2024-03-29 🛫 2024-07-10
+- [x] #task Does anything need to be chucked out of the fridge? #home 🔁 every week on Friday when done ➕ 2024-02-24 🛫 2024-03-11 ✅ 2024-03-29
+- [x] #task Does anything need to be chucked out of the fridge? #home 🔁 every week on Friday when done ➕ 2024-02-01 🛫 2024-02-06 ✅ 2024-02-24
+- [x] #task Does anything need to be chucked out of the fridge? #home 🔁 every week on Friday when done ➕ 2024-01-20 🛫 2024-02-01 ✅ 2024-02-01
+- [x] #task Does anything need to be chucked out of the fridge? #home 🔁 every week on Friday when done ➕ 2024-01-13 🛫 2024-01-19 ✅ 2024-01-20
+- [x] #task Does anything need to be chucked out of the fridge? #home 🔁 every week on Friday when done ➕ 2023-12-19 🛫 2024-01-11 ✅ 2024-01-13
+- [x] #task Does anything need to be chucked out of the fridge? #home 🔁 every week on Friday when done ➕ 2023-12-12 🛫 2023-12-15 ✅ 2023-12-19
+- [x] #task Memorise the years wins before the performance review? ➕ 2023-12-12 ✅ 2023-12-13
+- [x] #task Sort out Chrissy presents before I go? ➕ 2023-12-11 ✅ 2024-01-06
+- [x] #task Shopping trip this weekend? To get last things for MZ ➕ 2023-12-11 ✅ 2023-12-11
+- [x] #task Would it make sense to buy a cheap secondhand windows box just for games? ➕ 2023-12-11 🛫 2024-01-23 ✅ 2024-01-23
+- [x] #task respond to clare ➕ 2023-12-10 ✅ 2023-12-11
+- [x] #task make ramen tonight ➕ 2023-12-10 🛫 2023-12-11 ✅ 2023-12-11
+- [x] #task re ➕ 2023-12-09 ✅ 2023-12-09
+- [x] #task Clean out split air con air filter ➕ 2023-12-09 🛫 2024-01-04 ✅ 2024-01-04
+- [x] #task make decision on new aircon purchase ➕ 2023-12-09 ✅ 2023-12-10
+- [x] #task Waterproof shoes? It’s going to be very rainy ➕ 2023-12-09 ✅ 2023-12-11
+- [x] #task Clean out crisper ➕ 2023-12-08 🛫 2023-12-12 ✅ 2023-12-12
+- [x] #task set mouth guard ➕ 2023-12-07 🛫 2023-12-12 ✅ 2023-12-12
+- [x] #task Vincenzo ➕ 2023-12-06 ✅ 2023-12-07
+- [x] #task Crash landing on you ➕ 2023-12-06 ✅ 2023-12-07
+- [x] #task marina bday next month? ➕ 2023-12-06 ✅ 2023-12-11
+- [x] #task #summer-trip cruise online check in ➕ 2023-12-06 🛫 2023-12-08 ✅ 2023-12-10
+- [x] #task Take a look at mums doggie videos 🔼 ➕ 2023-12-02 🛫 2023-12-20 ✅ 2024-01-10
+- [x] #task Tell dad about phoebe visit ➕ 2023-12-02 ✅ 2023-12-05
+- [x] #task Add roll on to daypack ➕ 2023-12-02 🛫 2023-12-12 ✅ 2023-12-12
+- [x] #task Thin blanket for summer for Anna? ➕ 2023-12-01 ✅ 2023-12-05
+- [x] #task Black polyester shirt for hockey ➕ 2023-11-30 ✅ 2023-12-02
+- [x] #task Pay for summer hockey ➕ 2023-11-30 ✅ 2023-12-02
+- [x] #task Have the task modal submit buttons stick to the bottom so you don’t have to scroll down ➕ 2023-11-27 ✅ 2023-11-27
+- [x] #task Air con situation on the cruise ➕ 2023-11-27 ✅ 2023-11-28
+- [x] #task Buy wallet ➕ 2023-11-27 🛫 2023-12-05 ✅ 2023-12-05
+- [x] #task I’ve got to remember that I am a mercenary - I want to be working towards enjoying the fruits of my own labours ➕ 2023-11-24 ✅ 2023-12-13
+- [x] #task I’ve got to remember that I am a mercenary - I want to be working towards enjoying the fruits of my own labours ➕ 2023-11-24 ✅ 2023-11-25
+- [x] #task By Better gripping shoes for hockey ➕ 2023-11-23 ✅ 2023-11-25
+- [x] #task #sem_exchange can I do six months in one location and six months in another ➕ 2023-11-19 🛫 2024-03-06 ✅ 2024-03-06
+- [x] #task Sem exchange- verify that marks are pass/fail ➕ 2023-11-18 ✅ 2023-11-18
+- [x] #task Sign into cruise portal thingy - see email ➕ 2023-11-18 ✅ 2023-11-18
+- [x] #task Increase bed hygiene- maybe foldout recliner of some ➕ 2023-11-18 ✅ 2023-11-28
+- [x] #task What is MyMedicare - see mayfield medical connection sms ➕ 2023-11-17 ✅ 2023-11-18
+- [x] #task Clean up semester exchange notes 🔼 ➕ 2023-11-17 ✅ 2023-11-18
+- [x] #task Tell Lisa about the cruise ➕ 2023-11-17 🛫 2023-11-21 ✅ 2023-11-21
+- [x] #task Make text (expecially todos) bigger on mobile ➕ 2023-11-16 ✅ 2023-11-18
+- [x] #task Add link to task list Apple shortcuts ➕ 2023-11-16 ✅ 2023-11-18
+- [x] #task I don’t want notifications about work repositories on my personal gmail - GitHub ➕ 2023-11-13 ✅ 2023-11-15
+- [x] #task How much money would we save by doing new zealand in 6 months? ⏫ ➕ 2023-11-12 📅 2023-11-14 ✅ 2023-11-14
+- [x] #task draw out actionable items from [[Reflection on 2023]] ➕ 2023-11-12 🛫 2024-03-01 ✅ 2024-03-01
+- [x] #task get back to Lisa about how many hours I want to work 🔼 ➕ 2023-11-12 🛫 2023-11-15 ✅ 2023-11-15
+    - Having more spare time is always better than less
+    - What does the extra ten hours get me - an extra $190 a week
+- [x] #task buy new shorts ➕ 2023-11-12 ✅ 2023-12-11
+- [x] #task Replace student card ➕ 2023-11-12 🛫 2023-11-16 ✅ 2023-11-16
+- [ ] #task Enrol in sem 2 before it closes 🔁 every year ➕ 2024-06-01 🛫 2025-05-24 📅 2025-06-02
+- [x] #task Enrol in sem 2 before it closes 🆔 cpq0u7 🔁 every year ➕ 2023-11-12 🛫 2024-05-24 📅 2024-06-02 ✅ 2024-06-01
+- [ ] #task Enrol In Next Year's Courses 🔁 every year ➕ 2024-01-07 🛫 2025-01-04 📅 2025-01-08
+- [x] #task Enrol In Next Year's Courses 🔁 every year ➕ 2023-11-12 🛫 2024-01-04 📅 2024-01-08 ✅ 2024-01-07
+- [x] #task Make it so Anna can actually turn on the friggin light ➕ 2023-11-10 ✅ 2023-11-11
+- [x] #task start planning NZ trip ➕ 2023-11-10 ✅ 2023-11-11
+- [x] #task put tissues in top pocket of work bag ➕ 2023-11-09 ✅ 2023-11-09
+- [x] #task plan birthday 🔼 ➕ 2023-11-08 ✅ 2023-11-11
+- [x] #task Software Idea - Select Text and Turn It Into a Calendar Event 🔽 ➕ 2023-11-07 🛫 2023-11-15 ✅ 2023-11-23
+- [x] #task message nagey - hockey's back on ➕ 2023-11-07 ✅ 2023-11-09
+- [x] #task https://www.amazon.com.au/dp/B002RI9MSY?ref=KC_GS_GB_AU ➕ 2023-11-06 ✅ 2023-11-09
+- [x] #task Rethink charging setup in bedroom ➕ 2023-11-04 ✅ 2023-11-12
+- [x] #task Maybe book airbnb for cenny coast chrismas day ➕ 2023-11-04 ✅ 2023-11-21 ⤵️ 3wdipp
+- [x] #task Ask dad about Plans on Christmas Day ➕ 2023-11-12 🛫 2023-11-19 ✅ 2023-11-21 🆔 3wdipp
+- [x] #task my going over lunchtime day, Christmas Louise’s ➕ 2023-11-04 ✅ 2023-11-12
+- [x] #task buy car dog seat ⛔️ b2p0iw ➕ 2023-11-04 🛫 2024-01-15 ✅ 2024-04-18
+- [x] #task Check required bag cables - work - usb c to usb c, usb a to usb c, usb a to lightning - personal - usb a to usb c, usb a to lightning ➕ 2023-11-01 🛫 2024-01-13 ✅ 2024-01-21
+- [x] #task One hour of extra work today ➕ 2023-10-23 ✅ 2023-11-11
+- [x] #task Re add bug spray and refills plastic container to work bag ➕ 2023-10-23 ✅ 2023-11-10
+- [x] #task Add geometric series formula to cheatsheet ➕ 2023-10-18 ✅ 2023-11-09
+- [x] #task Conflicting definition of subnet - refer to network number card ➕ 2023-10-12 ✅ 2023-11-09
+- [x] #task Break up seng1050 routing card ➕ 2023-10-12 ✅ 2023-11-06
+- [x] #task #brisbane How am I getting back to Brisbane airport? ➕ 2023-10-12 📅 2023-10-15 ✅ 2023-10-21
+- [x] #task #brisbane ask dad for a lift back on sunday ➕ 2023-10-10 🛫 2023-10-11 📅 2023-10-11 ✅ 2023-10-11
+- [x] #task #brisbane work out sleep times to get up at 6 🔼 ➕ 2023-10-10 ✅ 2023-10-11
+- [x] #task Add 1510 derangement cards from week 10 ➕ 2023-10-09 ✅ 2023-11-06
+- [x] #task Get a power bill off dad 🔼 ➕ 2023-10-08 ✅ 2023-10-08
+- [x] #task UK citizenship? ➕ 2023-10-07 ✅ 2023-11-07
+- [x] #task Investigate fair work ombudsman - what are my rights? ➕ 2023-10-01 ✅ 2023-11-12
+- [x] #task [[202304101103 - Sunday Thinking|Read through long term projects]] ⏫ ➕ 2023-10-09 🛫 2024-04-22 ✅ 2024-04-21
+- [x] #task [[202304101103 - Sunday Thinking|Read through long term projects]] ⏫ 🔁 every week on Friday when done 🛫 2023-09-29 ✅ 2023-10-09
+- [x] #task get actual power bill off dad ➕ 2023-10-04 🛫 2024-02-02 ✅ 2024-02-24
+- [x] #task Break up reflexive, transitive, symmetric and antisymmetric cards ➕ 2023-10-04 ✅ 2023-10-04
+- [x] #task SENG1050 go through CSS lecture for missed content ➕ 2023-10-03 ✅ 2023-11-06
+- [x] #task Add all suspended theorem cards to the MATH1050 Cheatsheet ➕ 2023-10-03 ✅ 2023-11-06
+- [x] #task Investigate fair work ombudsman - what are my rights? ➕ 2023-10-01 ✅ 2023-11-07
+- [x] #task buy kmart tripod ➕ 2023-09-28 🛫 2023-10-05 ✅ 2023-10-07
+- [x] #task test ➕ 2023-09-28 ✅ 2023-09-28
+- [x] #task https://www.kmart.com.au/product/adjustable-phone-tripod-43023509/?sku=43023509&gclid=EAIaIQobChMIuc7ztaPMgQMVIqpmAh0NagmIEBwYAiABEgIdLfD_BwE&gclsrc=aw.ds ➕ 2023-09-28 ✅ 2023-09-28
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days when done ➕ 2024-05-21 🛫 2024-05-24 ✅ 2024-05-29
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days when done ➕ 2024-05-18 🛫 2024-05-21 ✅ 2024-05-21
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days when done ➕ 2024-05-14 🛫 2024-05-17 ✅ 2024-05-18
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days when done ➕ 2024-05-11 🛫 2024-05-14 ✅ 2024-05-14
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days when done ➕ 2024-05-08 🛫 2024-05-11 ✅ 2024-05-11
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days when done ➕ 2024-05-05 🛫 2024-05-08 ✅ 2024-05-08
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days when done ➕ 2024-05-02 🛫 2024-05-05 ✅ 2024-05-05
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days when done ➕ 2024-04-28 🛫 2024-05-01 ✅ 2024-05-02
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days when done ➕ 2024-04-23 🛫 2024-04-26 ✅ 2024-04-28
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days when done ➕ 2024-04-20 🛫 2024-04-23 ✅ 2024-04-23
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days when done ➕ 2024-04-18 🛫 2024-04-21 ✅ 2024-04-20
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days when done ➕ 2024-04-07 🛫 2024-04-10 ✅ 2024-04-18
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days when done ➕ 2024-04-04 🛫 2024-04-07 ✅ 2024-04-07
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days when done ➕ 2024-04-01 🛫 2024-04-04 ✅ 2024-04-04
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days when done ➕ 2024-03-29 🛫 2024-04-01 ✅ 2024-04-01
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days when done ➕ 2024-03-25 🛫 2024-03-28 ✅ 2024-03-29
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days when done ➕ 2024-03-22 🛫 2024-03-25 ✅ 2024-03-25
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days when done ➕ 2024-03-17 🛫 2024-03-20 ✅ 2024-03-22
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days when done ➕ 2024-03-16 🛫 2024-03-17 ✅ 2024-03-17
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days ➕ 2024-03-11 🛫 2024-03-14 ✅ 2024-03-16
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days ➕ 2024-03-09 🛫 2024-03-11 ✅ 2024-03-11
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days ➕ 2024-03-05 🛫 2024-03-08 ✅ 2024-03-09
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days ➕ 2024-03-02 🛫 2024-03-05 ✅ 2024-03-05
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days ➕ 2024-02-28 🛫 2024-03-02 ✅ 2024-03-02
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every 3 days ➕ 2024-02-27 🛫 2024-02-28 ✅ 2024-02-28
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-02-23 🛫 2024-02-26 ✅ 2024-02-27
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-02-19 🛫 2024-02-20 ✅ 2024-02-23
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-02-10 🛫 2024-02-19 ✅ 2024-02-19
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-02-07 🛫 2024-02-08 ✅ 2024-02-10
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-02-06 🛫 2024-02-07 ✅ 2024-02-07
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-02-03 🛫 2024-02-05 ✅ 2024-02-06
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-02-01 🛫 2024-02-02 ✅ 2024-02-03
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-01-31 🛫 2024-02-01 ✅ 2024-02-01
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-01-26 🛫 2024-01-29 ✅ 2024-01-31
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-01-25 🛫 2024-01-26 ✅ 2024-01-26
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-01-24 🛫 2024-01-25 ✅ 2024-01-25
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-01-23 🛫 2024-01-24 ✅ 2024-01-24
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-01-22 🛫 2024-01-23 ✅ 2024-01-23
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-01-20 🛫 2024-01-22 ✅ 2024-01-22
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-01-18 🛫 2024-01-19 ✅ 2024-01-20
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-01-17 🛫 2024-01-18 ✅ 2024-01-18
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-01-16 🛫 2024-01-17 ✅ 2024-01-17
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-01-15 🛫 2024-01-16 ✅ 2024-01-16
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-01-13 🛫 2024-01-15 ✅ 2024-01-15
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-01-11 🛫 2024-01-12 ✅ 2024-01-13
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-01-10 🛫 2024-01-11 ✅ 2024-01-11
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-01-09 🛫 2024-01-10 ✅ 2024-01-10
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-01-05 🛫 2024-01-08 ✅ 2024-01-09
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-01-04 🛫 2024-01-05 ✅ 2024-01-05
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2024-01-03 🛫 2024-01-04 ✅ 2024-01-04
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-12-30 🛫 2024-01-01 ✅ 2024-01-03
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-12-20 🛫 2024-01-04 ✅ 2023-12-30
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-12-19 🛫 2023-12-20 ✅ 2023-12-20
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-12-18 🛫 2023-12-19 ✅ 2023-12-19
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-12-16 🛫 2023-12-18 ✅ 2023-12-18
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-12-14 🛫 2023-12-15 ✅ 2023-12-16
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-12-13 🛫 2023-12-14 ✅ 2023-12-14
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-12-12 🛫 2023-12-13 ✅ 2023-12-13
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-12-11 🛫 2023-12-12 ✅ 2023-12-12
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-12-08 🛫 2023-12-11 ✅ 2023-12-11
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-12-07 🛫 2023-12-08 ✅ 2023-12-08
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-12-05 🛫 2023-12-06 ✅ 2023-12-07
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-12-04 🛫 2023-12-05 ✅ 2023-12-05
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-12-02 🛫 2023-12-04 ✅ 2023-12-04
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-11-30 🛫 2023-12-01 ✅ 2023-12-02
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-11-29 🛫 2023-11-30 ✅ 2023-11-30
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-11-28 🛫 2023-11-29 ✅ 2023-11-29
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-11-27 🛫 2023-11-28 ✅ 2023-11-28
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-11-24 🛫 2023-11-27 ✅ 2023-11-27
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-11-23 🛫 2023-11-24 ✅ 2023-11-24
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-11-22 🛫 2023-11-23 ✅ 2023-11-23
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-11-21 🛫 2023-11-22 ✅ 2023-11-22
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-11-18 🛫 2023-11-20 ✅ 2023-11-21
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-11-16 🛫 2023-11-17 ✅ 2023-11-18
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-11-15 🛫 2023-11-16 ✅ 2023-11-16
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-11-14 🛫 2023-11-15 ✅ 2023-11-15
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-11-13 🛫 2023-11-14 ✅ 2023-11-14
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-11-10 🛫 2023-11-13 ✅ 2023-11-13
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-11-09 🛫 2023-11-10 ✅ 2023-11-10
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-11-07 🛫 2023-11-08 ✅ 2023-11-09
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-10-11 🛫 2023-10-12 ✅ 2023-11-07
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-10-10 🛫 2023-10-11 ✅ 2023-10-11
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-10-09 🛫 2023-10-10 ✅ 2023-10-10
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-10-07 🛫 2023-10-09 ✅ 2023-10-09
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every weekday when done ➕ 2023-10-05 🛫 2023-10-06 ✅ 2023-10-07
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every day when done ➕ 2023-10-04 🛫 2023-10-05 ✅ 2023-10-05
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every day when done ➕ 2023-10-01 🛫 2023-10-02 ✅ 2023-10-04
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every day when done ➕ 2023-10-01 🛫 2023-09-30 ✅ 2023-10-01
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every day ➕ 2023-10-01 🛫 2023-09-30 ✅ 2023-10-01
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every day ➕ 2023-09-28 🛫 2023-09-29 ✅ 2023-10-01
+- [x] #task Add to [WFH Log](https://docs.google.com/spreadsheets/d/1mWdn4IXNU0WR9qo2WKOytgAra6a-_X7uJfQpR1wwrhU/edit#gid=0) 🔼 🔁 every day ➕ 2023-09-28 🛫 2023-09-28 ✅ 2023-09-28
+- [x] #task #high_energy Need to fix that the mobile bill isn't in my name ➕ 2023-09-26 🛫 2024-05-04 ✅ 2024-04-04
+- [x] #task clean up room ➕ 2023-09-23 ✅ 2023-09-26
+- [x] #task Unify medical notes- currently too difficult to find ➕ 2023-09-23 ✅ 2023-10-04
+- [x] #task When do food vouchers expire ➕ 2023-09-23 ✅ 2023-11-10
+- [x] #task How does water bill interest work ➕ 2023-09-23 ✅ 2023-10-04
+- [x] #task Foot is still sore and quite tender after 8 weeks - book in doctor appointment? ➕ 2023-09-23 🛫 2023-10-18 ✅ 2023-11-07
+- [x] #task Water and electricity ➕ 2023-09-22 ✅ 2023-09-26
+- [x] #task Maybe I can convince the program convener to let me into the final year project early because Brisbane vouchers is a unique opportunity ➕ 2023-09-22 ✅ 2023-11-11
+    - 140 units is just Assumed Knowledge - It is the student's responsibility to ensure that they meet the assumed knowledge specified for this course. This will not be checked by the University on enrolment.
+- [x] #task How to tell if two functions have a composite - fix card ➕ 2023-09-19 ✅ 2023-09-21
+- [x] #task Add rotation algorithm to cheatsheet ➕ 2023-09-19 ✅ 2023-10-04
+- [x] #task Opportunity cost of stocks versus super ➕ 2023-09-19 ✅ 2023-11-07
+- [x] #task superglue then screw in wardrobe handles so i dont have to keep tightening it ➕ 2023-09-18 ✅ 2023-09-19
+- [x] #task chuck out flowers ➕ 2023-09-18 ✅ 2023-09-19
+- [x] #task verify mid semester test mark ➕ 2023-09-18 ✅ 2023-09-19
+- [x] #task Invoices ➕ 2023-09-17 ✅ 2023-09-19
+- [x] #task Clear air filter ➕ 2023-09-16 ✅ 2023-09-17
+- [x] #task experiment with bag weight shedding ➕ 2023-09-16 ✅ 2023-09-17
+- [x] #task Investigate bed air conditioning ➕ 2023-09-16 ✅ 2023-09-16
+- [x] #task Refill tissue ➕ 2023-09-16 ✅ 2023-09-16
+- [x] #task extra half hour of work in 12 sep ➕ 2023-09-12 ✅ 2023-09-19
+- [x] #task put bandaid on belly button ➕ 2023-09-09 ✅ 2023-09-11
+- [x] #task Buy sunscreen for each bag - get rid of mosquito spray? ➕ 2023-09-09 ✅ 2023-09-11
+- [x] #task Light long sleeve summer clothes ➕ 2023-09-09 🛫 2023-09-23 ✅ 2023-09-26
+- [x] #task turf useless stuff on top of cabinet ➕ 2023-09-08 ✅ 2023-09-11
+- [x] #task extra hour on 8 sep ➕ 2023-09-08 ✅ 2023-09-19
+- [x] #task Minimum 10 Minutes of 1510 Flash Cards ➕ 2023-09-22 ✅ 2023-10-04
+- [x] #task Minimum 10 Minutes of 1510 Flash Cards 🔁 every day when done ➕ 2023-09-19 ✅ 2023-09-22
+- [x] #task Minimum 10 Minutes of 1510 Flash Cards 🔁 every day when done ➕ 2023-09-19 ✅ 2023-09-19
+- [x] #task Minimum 10 Minutes of 1510 Flash Cards 🔁 every day when done ➕ 2023-09-19 ✅ 2023-09-19
+- [x] #task Minimum 10 Minutes of 1510 Flash Cards 🔁 every day when done ➕ 2023-09-19 ✅ 2023-09-19
+- [x] #task Minimum 10 Minutes of 1510 Flash Cards 🔁 every day when done ➕ 2023-09-19 ✅ 2023-09-19
+- [x] #task Minimum 10 Minutes of 1510 Flash Cards 🔁 every day when done ➕ 2023-09-19 ✅ 2023-09-19
+- [x] #task Minimum 10 Minutes of 1510 Flash Cards 🔁 every day when done ➕ 2023-09-19 ✅ 2023-09-19
+- [x] #task Minimum 10 Minutes of 1510 Flash Cards 🔁 every day when done ➕ 2023-09-19 ✅ 2023-09-19
+- [x] #task Minimum 10 Minutes of 1510 Flash Cards 🔁 every day when done ➕ 2023-09-19 ✅ 2023-09-19
+- [x] #task Minimum 10 Minutes of 1510 Flash Cards 🔁 every day when done ➕ 2023-09-19 ✅ 2023-09-19
+- [x] #task Minimum 10 Minutes of 1510 Flash Cards 🔁 every day when done ➕ 2023-09-19 ✅ 2023-09-19
+- [x] #task Minimum 10 Minutes of 1510 Flash Cards 🔁 every day when done ➕ 2023-09-19 ✅ 2023-09-19
+- [x] #task Minimum 10 Minutes of 1510 Flash Cards 🔁 every day when done ➕ 2023-09-19 ✅ 2023-09-19
+- [x] #task Minimum 10 Minutes of 1510 Flash Cards 🔁 every day when done ➕ 2023-09-19 ✅ 2023-09-19
+- [x] #task Minimum 10 Minutes of 1510 Flash Cards 🔁 every day when done ➕ 2023-09-19 ✅ 2023-09-19
+- [x] #task Minimum 10 Minutes of 1510 Flash Cards 🔁 every day when done ➕ 2023-09-07 ✅ 2023-09-19
+- [x] #task Did my UoN credit application go anywhere? ➕ 2023-09-07 🛫 2023-11-30 ✅ 2023-11-30
+- [x] #task Review of additional hours worked vs paid ➕ 2023-09-07 🛫 2023-11-13 ✅ 2023-11-15
+- [x] #task Wrap dads present 🔼 ➕ 2023-09-06 ✅ 2023-09-07
+- [x] #task Add backup hand sanitisers ➕ 2023-09-04 ✅ 2023-09-04
+- [x] #task More secure NutriBullet lid ➕ 2023-08-28 ✅ 2023-08-29
+- [x] #task Add additional stylus to bags- two is one ➕ 2023-08-26 ✅ 2023-08-27
+- [x] #task refill bags with tissues ➕ 2023-08-26 ✅ 2023-08-29
+- [x] #task Use up that Louise voucher ➕ 2023-08-26 🛫 2023-09-19 ✅ 2023-09-26
+- [x] #task Present for fathers day ➕ 2023-08-23 ✅ 2023-09-03
+- [x] #task refill hand sanitiser in bags ➕ 2023-08-20 ✅ 2023-08-22
+- [ ] #task 5 minutes of Hockey stick practice #home 🔽 🔁 every day when done ➕ 2023-11-30 🛫 2024-07-10
+- [x] #task 5 minutes of Hockey stick practice #home 🔽 🔁 every day when done ➕ 2023-11-28 🛫 2023-11-29 ✅ 2023-11-30
+- [x] #task 5 minutes of Hockey stick practice #home 🔽 🔁 every day when done ➕ 2023-11-16 🛫 2023-11-22 ✅ 2023-11-28
+- [x] #task 5 minutes of Hockey stick practice #home 🔽 🔁 every day when done ➕ 2023-10-04 🛫 2023-10-05 ✅ 2023-11-16
+- [x] #task 5 minutes of Hockey stick practice 🔽 🔁 every day when done ➕ 2023-09-27 🛫 2023-09-28 ✅ 2023-10-04
+- [x] #task 5 minutes of Hockey stick practice 🔽 🔁 every day when done ➕ 2023-08-26 🛫 2023-09-19 ✅ 2023-09-27
+- [x] #task 5 minutes of Hockey stick practice 🔁 every day when done ➕ 2023-08-23 🛫 2023-08-24 ✅ 2023-08-26
+- [x] #task 5 minutes of Hockey stick practice 🔁 every day when done ➕ 2023-08-23 🛫 2023-08-23 ✅ 2023-08-23
+- [x] #task 5 minutes of Hockey stick practice 🔁 every day when done ➕ 2023-08-20 🛫 2023-08-22 ✅ 2023-08-23
+- [x] #task Choose 15 techniques for speed throws ➕ 2023-08-18 🛫 2023-09-19 ✅ 2023-10-04
+- [x] #task extra 2 hours friday 25th august - the day livingstone android crashed ➕ 2023-08-15 🛫 2023-08-30 ✅ 2023-09-07
+- [x] #task Work on SENG1050 Assignment 🔼 ➕ 2023-08-14 📅 2023-08-25 ✅ 2023-08-25
+- [x] #task Work on MATH1510 assignment ⏫ ➕ 2023-08-14 📅 2023-08-18 ✅ 2023-08-20
+- [x] #task See accountant - I have a few unique things about my situation ✅ 2023-09-07
+- [x] #task Fiddle with calendar notifications on mobile ✅ 2023-09-07
+- [x] #task Add proofs questions to anki ✅ 2023-09-03
+- [x] #task extra hour thursday ✅ 2023-08-03
+- [x] #task extra 2 hours on wednesday ✅ 2023-08-03
+- [x] #task extra hour on the 1st of august 📅 ✅ 2023-08-03
+- [x]  #task ✅ 2023-08-01
+- [x] #task Buy a bigger lasagne tray ✅ 2023-07-30
+- [x] #task Buy another pair of tongs ✅ 2023-07-30
+- [x] #task Final beryl invoice needs to be done ✅ 2023-08-08
+- [x] #task extra 2 hours of work on the 28th july ✅ 2023-08-03
+- [x] #task extra hour of work today ✅ 2023-07-28
+- [x] #task Final beryl invoice needs to be done ✅ 2023-07-30
+- [x] #task Make note of an additional hour of Lisa work today ✅ 2023-07-30
+- [x] #task Fix quarter strangle note ✅ 2023-07-30
+- [x] #task Add bin bags to resources ✅ 2023-07-30
+- [x] #task Fix quarter strangle card ✅ 2023-07-30
+- [x] #task Get 6th kyu cards up to date ✅ 2023-07-30
+- [x] #task Fix disjunctive syllogism card ✅ 2023-07-30
+- [x] #task Find a pack of those combs to enable access in each bag ✅ 2023-07-30
+- [x] #task add pens and notebook to packing list for monday ✅ 2023-07-30
+- [x] #task Mention to lisa - worked 40 hours last week ✅ 2023-07-28
+- [x] #task 319 For power ✅ 2023-07-22
+- [x] #task Frequent flier points? ✅ 2023-09-07
+- [x] #task more tissues in computer bab ✅ 2023-07-19
+- [x] #task Add uni assessments to calendar ✅ 2023-07-28
+- [x] #task #small Rejig budget for 30 hours ✅ 2023-07-15
+- [x] #task #small What am i wearing for the graduation - does anything need to be washed? ✅ 2023-07-18
+- [x] #task #small Choose course timetables 🛫 2023-07-16 ✅ 2023-07-18
+- [x] #task #small wrap annas present ✅ 2023-07-13
+- [x] #task #small Ask lisa if i can go flexible up to 40 hours 🛫 2023-07-25 ✅ 2023-07-30
+- [x] #task apply for credit ✅ 2023-09-07
+- [x] #task #small Enrol in uni courses ✅ 2023-07-12
+- [x] #task #small annas graduation present ✅ 2023-07-11
+- [x] #task #small Pick up vaccines ✅ 2023-07-11
+- [x] #task #small respond to Mono ✅ 2023-07-12
+- [x] #task #small Investigate how obisidan tasks does storage ✅ 2023-07-12
+- [x] #task #small #chile Six minutes is cutting a bit fine. Maybe find an earlier bus? 🔼 ✅ 2023-06-21
+- [x] #task #small #chile take old wallet to Chile for cash holdings? 🔼 ✅ 2023-06-21
+- [x] #task #small #chile gloves, beanie 🔼 ✅ 2023-06-19
+- [x] #task #small Do I book in early new Colombo interview time now, before I submit my application 🔼 ✅ 2023-06-21
+- [x] #task #small #chile toothpaste, floss, water, bottle 🔼 ✅ 2023-06-19
+- [x] #task #small #chile test new clothes I've bought for wind protection 🔼 ✅ 2023-06-21
+- [x] #task #small #chile pack everything 🔼 ✅ 2023-06-21
+- [x] #task #small #chile plan transport to sydney airport 🔼 ✅ 2023-06-21
+- [x] #task #small #chile Can we definitely pay for baggage when we rock up to the airport ⏫ ✅ 2023-06-18
+- [x] #task Put some draconian filters on outlook to not miss important emails again 🛫 2023-07-10 ✅ 2023-08-29
+- [x] #task #small Respond to obsidian tasks offer 🔼 ✅ 2023-06-19
+- [x] #task #small #chile get new shoes ⏫ 📅 2023-06-16 ✅ 2023-06-17
+- [x] #task #small Get haircut ⏫ ✅ 2023-06-17
+- [x] #task #small #chile make sure the sound loaded on my sleep Earbuds is good before flight 🔼 ✅ 2023-06-19
+- [x] #task #small #chile International driving permit ⏫ 🛫 2023-06-19 📅 2023-06-20 ✅ 2023-06-19
+- [x] #task #small Visit auspost to return asics 🔼 🛫 2023-07-23 ✅ 2023-07-28
+- [x] #task #small Make the Amazon clothes purchase very soon 🔼 🛫 2023-06-13 ✅ 2023-06-14
+- [x] #task #small #chile what to do on the plane trip there and back 🔼 🛫 2023-06-08 ✅ 2023-07-10
+- [x] #task #small Make travel pillow purchase #chile 🛫 2023-06-08 ✅ 2023-06-08
+- [x] #task #small #chile should I book subjects for next semester before I leave for Chile? ⏫ 🛫 2023-06-08 ✅ 2023-06-17
+- [x] #task #small #chile plan, laundry, a week and two weeks into the trip 🛫 2023-06-08 ✅ 2023-06-15
+- [x] #task #small #chile does accommodation need to be extended in the north? 🛫 2023-06-08 ✅ 2023-06-15
+- [x] #task #small #small #chile book, flights, and accommodation for Valparaiso 🛫 2023-06-08 ✅ 2023-06-08
+- [x] #task #small #small #chile how to waterproof backpack 🛫 2023-06-08 ✅ 2023-06-08
+- [x] #task #small #chile #small waterproof shoes for Chile? 🛫 2023-06-08 ✅ 2023-06-08
+- [x] #task #small respond to devina marcelyn 🛫 2023-06-08 ✅ 2023-06-15
+- [x] #task #small chase up bogus assignment 2 mark 🛫 2023-06-07 ✅ 2023-06-07
+- [x] #task #small do practice final exam 🛫 2023-06-03 ✅ 2023-06-07
+- [x] #task #small Get serious about Spanish 🔼 🛫 2023-06-03 ✅ 2023-06-20
+- [x] #task #small ring up Service NSW to rebook driving test? 🛫 2023-06-05 ✅ 2023-06-07
+- [x] #task #small Thursday 8th June gall bladder operation 🛫 2023-06-02 ✅ 2023-06-03
+- [x] #task #small Add sequential task support to obsidian tasks 🛫 2023-06-14 ✅ 2023-06-14
+- [x] #task #small email to SENG1120 CC or Lab Dem asking about BTNode implementation 🛫 2023-05-27 ✅ 2023-06-01
+- [x] #task #small Hockey is part of community new columbo 🛫 2023-05-27 ✅ 2023-05-31
+- [x] #task #small #chile Wifi dongle in chile 🛫 2023-05-27 ✅ 2023-05-27
+- [x] #task #small Global Engineering Exchange 🛫 2023-05-25 ✅ 2023-05-31
+- [x] #task #small tell dad invoices are completed 🛫 2023-05-25 ✅ 2023-05-25
+- [x] #task #small schedule time to try on Hoka shoes 🛫 2023-05-22 ✅ 2023-05-23
+- [x] #task #small Tell dad about driving test 🛫 2023-05-22 ✅ 2023-05-23
+- [x] #task #small True study abroad now would be difficult with work, but on the other hand I am commitment free and not paying rent 🛫 2023-05-21 ✅ 2023-05-25
+- [x] #task #small Investigate other study abroad options, not just new Colombo 🛫 2023-05-21 ✅ 2023-05-31
+- [x] #task #small investigate cleaning bed 🛫 2023-05-20 ✅ 2023-06-03
+- [x] #task #small tell dad about the gall bladder situation 🛫 2023-05-22 ✅ 2023-05-23
+- [x] #task #small write notes for podiatrist 🛫 2023-05-20 ✅ 2023-05-21
+- [x] #task #small Do another ultrasound in the next month 🛫 2023-05-19 ✅ 2023-05-20
+- [x] #task #small Start taking melatonin at 10pm Chile time a few days before I fly out 🛫 2023-06-16 ✅ 2023-06-19
+- [x] #task #small Stop melatonin 🛫 2023-06-02 ✅ 2023-06-03
+- [x] #task #small Go to the chemist before my best appointment 🛫 2023-05-24 ✅ 2023-05-27
+- [x] #task #small #chile How am I going to get to sleep in Chile, drugs, earbuds 🛫 2023-05-13 ✅ 2023-05-20
+- [x] #task #small Load bag up with tissues 🛫 2023-05-13 ✅ 2023-05-13
+- [x] #task #small follow up - transfer selfwealth chess account over to CMCmarkets 🛫 2023-06-03 ✅ 2023-06-10
+- [x] #task #small Clear out iCloud storage 🛫 2023-05-06 ✅ 2023-05-31
+- [x] #task #small rejig charging cables and bag spare cables post iphone 🛫 2023-05-02 ✅ 2023-05-08
+- [x] #task #small what to get for mothers day ⏫ 🛫 2023-05-02 ✅ 2023-05-13
+- [x] #task #small wrap mum's present 🔼 🛫 2023-05-02 ✅ 2023-05-08
+- [ ] #task follow up on jetbrains liscence ⛔️ cpq0u7 🛫 2024-07-10
+- [x] #task #small Investigate the two vaccines i need to order in to a pharmacy 🛫 2023-05-03 ✅ 2023-05-10
+- [x] #task #small Course change application - due soon 🛫 2023-05-24 📅 2023-07-03 ✅ 2023-05-27
+
+- [x] #task Follow up on online university enquiries - [[202304301547 - Online Universities]] 🛫 2023-07-10 ✅ 2023-11-12
+- [x] #task #small #chile travel backpack 🛫 2023-04-29 ✅ 2023-04-30
+- [x] #task #small look into course change applications to comp sci 🛫 2023-05-10 ✅ 2023-05-10
+- [x] #task #small add hockey and more travel into budget 🛫 2023-04-25 ✅ 2023-04-25
+- [x] #task #small Work on Assignment 2 🔼 🛫 2023-05-07 ✅ 2023-05-13
+- [x] #task #small Follow up on aldimobile account ownership change request 🛫 2023-06-14 ✅ 2023-07-15
+- [x] #task #small Work on Assignment 2 🔁 every day when done 🛫 2023-04-23 ✅ 2023-04-23
+- [x] #task #small bag meds - emergency panadol and lozenges 🛫 2023-04-17 ✅ 2023-04-22
+- [x] #task #small Rejig budget to account for electricity and double price opal 🛫 2023-04-12 ✅ 2023-04-17
+- [x] #task #small message to dad - no invoice issues 🛫 2023-04-10 ✅ 2023-04-11
+- [x] #task #small give lisa chile dates 🛫 2023-04-11 ✅ 2023-04-12
+- [x] #task #small Smoothie maker - portable smoothie making - few sizes - replace lid with blade and vice versa 🛫 2023-04-09 ✅ 2023-04-10
+- [x] #task #small Saturday in a week - go down for mums bday 🛫 2023-04-09 ✅ 2023-04-10
+- [x] #task #small installed third usb c cable 🛫 2023-04-07 ✅ 2023-04-11
+- [x] #task #small Prep for dads week in Wellington - how am I getting my veggies 🛫 2023-04-30 ✅ 2023-05-08
+- [x] #task #small annas muso thing 26th April  at the newy 🛫 2023-04-06 ✅ 2023-04-10
+- [x] #task #small 17th-21st may dad in Wellington 🛫 2023-04-05 ✅ 2023-04-10
+- [x] #task #small 250 power bill 🛫 2023-04-05 ✅ 2023-04-10
+- [x] #task #small why does the apple script auto run? 🛫 2023-04-05 ✅ 2023-05-31
+- [x] #task #small present for mum 🛫 2023-04-05 ✅ 2023-04-10
+- [x] #task #small covid booster 🛫 2023-04-04 ✅ 2023-04-04
+- [x] #task #small Tell nagey that im not doing thursday hockey 🛫 2023-04-05 ✅ 2023-04-06
+- [x] #task #small get business hours stuff *definitively* sorted - I dont want messages outside of hours unless they are critical 🛫 2023-04-03 ✅ 2023-04-03
+- [x] #task #small Separate the thinking and actionable tasks 🛫 2023-04-03 ✅ 2023-04-10
+- [x] #task #small Write hockey name cheat sheet 🛫 2023-04-03 ✅ 2023-04-03
+- [x] #task #small Write hockey team names cheatsheet 🛫 2023-04-03 ✅ 2023-04-04
+- [x] #task #small improved business hours startup script 🛫 2023-03-30 ✅ 2023-04-04
+- [x] #task #small investigate competing DCHP servers theory 🛫 2023-03-30 ✅ 2023-04-04
+- [x] #task #small Bs Lisa to allow for quickie 🛫 2023-03-25 ✅ 2023-03-26
+- [x] #task #small Talk to mum about hockey 🛫 2023-03-25 ✅ 2023-03-29
+- [x] #task #small What's the bare minimum to keep project Pegasus going 🛫 2023-03-25 ✅ 2023-04-11
+- [x] #task #small mac auto-opens signal, clickup and email? on boot during work hours 🛫 2023-03-24 ✅ 2023-03-26
+- [x] #task #small Ask Anna's preferred styles for clothes/bag materials etc for future present buying 🛫 2023-03-24 ✅ 2023-03-25
+- [x] #task #small glue hooks to board 🛫 2023-03-27 ✅ 2023-03-28
+- [x] #task #small Why does the router kick some devices off 🛫 2023-03-21 ✅ 2023-03-30
+- [x] #task #small Sign up for regular opal card 🛫 2023-03-28 ✅ 2023-03-28
+- [x] #task #small What kind of manager am I going to be 🛫 2023-03-21 ✅ 2023-04-04
+- [x] #task #small Send quit message to ysobel 🛫 2023-03-17 ✅ 2023-03-19
+- [x] #task #small Fix pinning and controlling techniques in 6th kyu cards 🛫 2023-04-24 ✅ 2023-06-03
+- [x] #task #small understand the threat of chagpt more - are we still on the exponential increase - what does the forecast look 🛫 2023-03-21 ✅ 2023-04-11
+- [x] #task #small Organise gaming night 🛫 2023-03-16 ✅ 2023-03-18
+- [x] #task #small what my plan for getting through uni 🛫 2023-03-21 ✅ 2023-04-21
+- [x] #task #small set alarm to ring up and book test 🛫 2023-04-10 ✅ 2023-04-11
+- [x] #task #small Tell Leandra I'm not ready for a grading till Thursday 🛫 2023-03-13 ✅ 2023-03-13
+- [x] #task #small When can I change to computer science 🛫 2023-03-12 ✅ 2023-03-13
+- [x] #task #small Screw in sunnies 🛫 2023-03-13 ✅ 2023-03-13
+- [x] #task #small Define a daily routine for foot odour 🛫 2023-03-10 ✅ 2023-03-13
+- [x] #task #small Add a daily alarm to do anki card 🛫 2023-03-10 ✅ 2023-03-10
+- [x] #task #small decide on when alarm rings to remind to do anki cards 🛫 2023-03-11 ✅ 2023-03-11
+- [x] #task #small Add rest of 7th kyu stuff to note 🛫 2023-03-10 ✅ 2023-03-10
+- [x] #task #small 5 minutes - what are we cooking tonight 🛫 2023-03-09 ✅ 2023-03-10
+- [x] #task #small Get up automatic transfers fixed 🛫 2023-03-11 ✅ 2023-03-12
+- [x] #task #small Spend an hour doing NUBots code 🛫 2023-03-13 ✅ 2023-03-13
+- [x] #task #small Choose annas present from suggestions 🛫 2023-03-18 ✅ 2023-03-26
+- [x] #task #small List of points to run through with Lisa 📅 2023-02-21 ✅ 2023-02-21
+- [x] #task #small Wrap dads present 📅 2023-02-21 ✅ 2023-02-21
+- [x] #task #small Go fulltime? 🛫 2023-02-17 📅 2023-02-20 ✅ 2023-02-21
+- [x] #task #small Card for Anna ✅ 2023-02-21
+- [x] #task #small Set up weekly uni tasks ✅ 2023-02-22
+- [x] #task #small Present for dad ✅ 2023-02-21
+- [x] #task #small Think through what I need for the roadtrip
+- [x] #task #small Send off repo to Cameron 🛫 2023-01-24 ✅ 2023-01-27
+- [x] #task #small Rebook Driving test 🛫 2023-01-23 ✅ 2023-01-25
+- [x] #task #small Listen to UoN voicemail 🛫 2023-01-23 ✅ 2023-01-27
+- [x] #task #small Message Venkat 🛫 2023-01-20 ✅ 2023-01-21
+- [x] #task #small Choose present for Anna ✅ 2022-12-27
+- [x] #task #small Book Driving in 🛫 2022-12-19 ✅ 2022-12-27
+- [x] #task #small Ring up Podiatrist 🛫 2023-03-29 ✅ 2023-04-03
+- [x] #task #small Buy earrings for mum ✅ 2022-12-27
+- [x] #task #small Present for dad ✅ 2022-12-27
+- [x] #task #small Run to coles for soup stuff and snacks 🛫 2022-12-16 ✅ 2022-12-18
+- [x] #task #small Complete a THIS WAY UP LESSON 🔁 every week when done 🛫 2022-12-20 ✅ 2023-01-27
+- [x] #task #small Finish off 2apply profile 🛫 2022-12-27 ✅ 2023-01-04
+- [x] #task #small Go thrift shopping ⏫ 🛫 2022-12-28 ✅ 2023-01-04
+- [x] #task #small Choose courses for next semester 🛫 2023-01-05 📅 2023-01-15 ✅ 2023-01-17
+### Recurring Regulars
+- [ ] #task Check air purifier filter #home 🔁 every month when done ➕ 2024-04-28 🛫 2024-07-10
+- [x] #task Check air purifier filter 🔁 every month when done ➕ 2024-03-24 🛫 2024-04-24 ✅ 2024-04-28
+- [x] #task Check air purifier filter 🔁 every month when done ➕ 2024-02-19 🛫 2024-03-19 ✅ 2024-03-24
+- [x] #task Check air purifier filter 🔁 every month when done ➕ 2024-01-13 🛫 2024-02-19 ✅ 2024-02-19
+- [x] #task Check air purifier filter 🔁 every month when done ➕ 2023-12-13 🛫 2024-01-13 ✅ 2024-01-13
+- [x] #task Check air purifier filter 🔁 every month when done ➕ 2023-11-18 🛫 2023-12-16 ✅ 2023-12-13
+- [x] #task Check air purifier filter 🔁 every month ➕ 2023-11-16 🛫 2023-11-16 ✅ 2023-11-18
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2024-05-19 🛫 2024-05-22 ✅ 2024-05-29
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2024-05-14 🛫 2024-05-17 ✅ 2024-05-19
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2024-05-10 🛫 2024-05-13 ✅ 2024-05-14
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2024-04-28 🛫 2024-05-10 ✅ 2024-05-10
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2024-04-18 🛫 2024-04-25 ✅ 2024-04-28
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2024-04-07 🛫 2024-04-10 ✅ 2024-04-18
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2024-03-29 🛫 2024-04-07 ✅ 2024-04-07
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2024-03-25 🛫 2024-03-28 ✅ 2024-03-29
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2024-03-19 🛫 2024-03-25 ✅ 2024-03-25
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2024-03-16 🛫 2024-03-19 ✅ 2024-03-19
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2024-03-09 🛫 2024-03-12 ✅ 2024-03-16
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2024-03-04 🛫 2024-03-07 ✅ 2024-03-09
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2024-02-28 🛫 2024-03-02 ✅ 2024-03-04
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2024-02-18 🛫 2024-02-27 ✅ 2024-02-28
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2024-02-03 🛫 2024-02-06 ✅ 2024-02-18
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2024-01-25 🛫 2024-02-02 ✅ 2024-02-03
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2024-01-20 🛫 2024-01-23 ✅ 2024-01-25
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2024-01-13 🛫 2024-01-16 ✅ 2024-01-20
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2024-01-09 🛫 2024-01-12 ✅ 2024-01-13
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2024-01-04 🛫 2024-01-07 ✅ 2024-01-09
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2023-12-16 🛫 2024-01-02 ✅ 2024-01-04
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2023-12-13 🛫 2023-12-16 ✅ 2023-12-16
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2023-12-10 🛫 2023-12-13 ✅ 2023-12-13
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2023-12-07 🛫 2023-12-10 ✅ 2023-12-10
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2023-12-04 🛫 2023-12-07 ✅ 2023-12-07
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2023-11-27 🛫 2023-11-30 ✅ 2023-12-04
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2023-11-23 🛫 2023-11-26 ✅ 2023-11-27
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2023-11-18 🛫 2023-11-21 ✅ 2023-11-23
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2023-11-15 🛫 2023-11-18 ✅ 2023-11-18
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2023-11-12 🛫 2023-11-15 ✅ 2023-11-15
+- [x] #task Replace Towel #home 🔁 every 3 days when done ➕ 2023-10-21 🛫 2023-11-10 ✅ 2023-11-12
+- [x] #task Replace Towel 🔁 every 3 days when done ➕ 2023-10-11 🛫 2023-10-14 ✅ 2023-10-21
+- [x] #task Replace Towel 🔁 every 3 days when done ➕ 2023-10-04 🛫 2023-10-11 ✅ 2023-10-11
+- [x] #task Replace Towel 🔁 every 3 days when done ➕ 2023-09-26 🛫 2023-09-29 ✅ 2023-10-04
+- [x] #task Replace Towel 🔁 every 3 days when done ➕ 2023-09-21 🛫 2023-09-24 ✅ 2023-09-26
+- [x] #task Replace Towel 🔁 every 3 days when done ➕ 2023-09-16 🛫 2023-09-19 ✅ 2023-09-21
+- [x] #task Replace Towel 🔁 every 3 days when done ➕ 2023-09-07 🛫 2023-09-10 ✅ 2023-09-16
+- [x] #task #small Replace Towel 🔁 every 3 days when done ➕ 2023-09-03 🛫 2023-09-06 ✅ 2023-09-07
+- [x] #task #small Replace Towel 🔁 every 3 days when done ➕ 2023-08-26 🛫 2023-08-31 ✅ 2023-09-03
+- [x] #task #small Replace Towel 🔁 every 3 days when done ➕ 2023-08-23 🛫 2023-08-26 ✅ 2023-08-26
+- [x] #task #small Replace Towel 🔁 every 3 days when done ➕ 2023-08-20 🛫 2023-08-23 ✅ 2023-08-23
+- [x] #task #small Replace Towel 🔁 every 3 days when done ➕ 2023-08-12 🛫 2023-08-15 ✅ 2023-08-20
+- [x] #task #small Replace Towel 🔁 every 3 days when done ➕ 2023-08-08 🛫 2023-08-11 ✅ 2023-08-12
+- [x] #task #small Replace Towel 🔁 every 3 days when done ➕ 2023-08-01 🛫 2023-08-04 ✅ 2023-08-08
+- [x] #task #small Replace Towel 🔁 every 3 days when done ➕ 2023-07-18 🛫 2023-07-24 ✅ 2023-08-01
+- [x] #task #small Replace Towel 🔁 every 3 days when done ➕ 2023-07-10 🛫 2023-07-13 ✅ 2023-07-18
+- [x] #task #small Replace Towel 🔁 every 3 days when done ➕ 2023-06-19 🛫 2023-06-22 ✅ 2023-07-10
+- [x] #task #small Replace Towel 🔁 every 3 days when done ➕ 2023-06-15 🛫 2023-06-18 ✅ 2023-06-19
+- [x] #task #small Replace Towel 🔁 every 3 days when done 🛫 2023-06-14 ✅ 2023-06-15
+- [x] #task #small Replace Towel 🔁 every 3 days when done 🛫 2023-06-10 ✅ 2023-06-11
+- [x] #task #small Replace Towel 🔁 every 3 days when done 🛫 2023-06-06 ✅ 2023-06-07
+- [x] #task #small Replace Towel 🔁 every 3 days when done 🛫 2023-06-03 ✅ 2023-06-03
+- [x] #task #small Replace Towel 🔁 every 3 days when done 🛫 2023-05-31 ✅ 2023-06-01
+- [x] #task #small Update [[202211181352 - Project Altas|rentals spreadsheet]] 🔁 every 2 days when done 🛫 2023-01-15 ✅ 2023-01-21
+- [x] #task #small Update [[202211181352 - Project Altas|rentals spreadsheet]] 🔁 every 2 days when done 🛫 2023-01-07 ✅ 2023-01-13
+- [x] #task #small Update [[202211181352 - Project Altas|rentals spreadsheet]] 🔁 every 2 days when done 🛫 2022-12-30 ✅ 2023-01-05
+- [x] #task #small Update [[202211181352 - Project Altas|rentals spreadsheet]] 🔁 every 2 days when done 🛫 2022-12-19 ✅ 2022-12-28
+- [ ] #task Push brokerage order 🔁 every week on Tuesday when done ➕ 2024-07-09 🛫 2024-07-16
+- [x] #task Push brokerage order 🔁 every week on Tuesday when done ➕ 2024-06-14 🛫 2024-06-18 ✅ 2024-07-09
+- [x] #task Push brokerage order 🔁 every week on Tuesday when done ➕ 2024-06-10 🛫 2024-06-11 ✅ 2024-06-14
+- [x] #task Push brokerage order 🔁 every week on Tuesday when done ➕ 2024-05-14 🛫 2024-06-05 ✅ 2024-06-10
+- [x] #task Push brokerage order 🔁 every week on Tuesday when done ➕ 2024-05-08 🛫 2024-05-14 ✅ 2024-05-14
+- [x] #task Push brokerage order 🔁 every week on Tuesday when done ➕ 2024-05-05 🛫 2024-05-07 ✅ 2024-05-08
+- [x] #task Push brokerage order 🔁 every week on Tuesday when done ➕ 2024-04-25 🛫 2024-04-30 ✅ 2024-05-05
+- [x] #task Push brokerage order 🔁 every week on Tuesday when done ➕ 2024-04-18 🛫 2024-04-25 ✅ 2024-04-25
+- [x] #task Push brokerage order 🔁 every week on Tuesday when done ➕ 2024-04-18 🛫 2024-04-09 ✅ 2024-04-18
+- [x] #task Push brokerage order 🔁 every week on Tuesday ➕ 2024-03-26 🛫 2024-04-08 ✅ 2024-04-18
+- [x] #task Push brokerage order 🔁 every week on Tuesday ➕ 2024-03-12 🛫 2024-03-26 ✅ 2024-03-26
+- [x] #task Push brokerage order 🔁 every week on Tuesday ➕ 2024-03-06 🛫 2024-03-12 ✅ 2024-03-12
+- [x] #task Push brokerage order 🔁 every week on Tuesday ➕ 2024-02-27 🛫 2024-03-06 ✅ 2024-03-06
+- [x] #task Push brokerage order 🔁 every week on Tuesday ➕ 2024-02-25 🛫 2024-02-27 ✅ 2024-02-27
+- [x] #task Push brokerage order 🔁 every week on Tuesday ➕ 2024-01-09 🛫 2024-02-25 ✅ 2024-02-25
+- [x] #task Push brokerage order 🔁 every week on Tuesday ➕ 2024-01-05 🛫 2024-01-09 ✅ 2024-01-09
+- [x] #task Push brokerage order 🔁 every week on Tuesday ➕ 2023-12-30 🛫 2024-01-05 ✅ 2024-01-05
+- [x] #task Push brokerage order 🔁 every week on Tuesday ➕ 2023-12-19 🛫 2023-12-26 ✅ 2023-12-30
+- [x] #task Push brokerage order 🔁 every week on Tuesday ➕ 2023-12-12 🛫 2023-12-19 ✅ 2023-12-19
+- [x] #task Push brokerage order 🔁 every week on Tuesday ➕ 2023-12-08 🛫 2023-12-12 ✅ 2023-12-12
+- [x] #task Push brokerage order 🔁 every week on Tuesday ➕ 2023-11-29 🛫 2023-12-08 ✅ 2023-12-08
+- [x] #task Push brokerage order 🔁 every week on Tuesday ➕ 2023-11-21 🛫 2023-11-29 ✅ 2023-11-29
+- [x] #task Push brokerage order 🔁 every week on Tuesday ➕ 2023-11-14 🛫 2023-11-21 ✅ 2023-11-21
+- [x] #task Push brokerage order 🔁 every week on Tuesday ➕ 2023-11-10 🛫 2023-11-14 ✅ 2023-11-14
+- [x] #task Push brokerage order 🔁 every week on Tuesday ➕ 2023-10-21 🛫 2023-11-10 ✅ 2023-11-10
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday ➕ 2023-10-21 🛫 2023-10-17 ✅ 2023-10-21
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday ➕ 2023-10-06 🛫 2023-10-12 ✅ 2023-10-21
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday ➕ 2023-09-26 🛫 2023-10-05 ✅ 2023-10-06
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday ➕ 2023-09-20 🛫 2023-09-26 ✅ 2023-09-26
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday ➕ 2023-09-14 🛫 2023-09-20 ✅ 2023-09-20
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday ➕ 2023-09-06 🛫 2023-09-12 ✅ 2023-09-14
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday ➕ 2023-09-06 🛫 2023-09-05 ✅ 2023-09-06
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday ➕ 2023-08-22 🛫 2023-08-30 ✅ 2023-09-06
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday ➕ 2023-08-20 🛫 2023-08-22 ✅ 2023-08-22
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday ➕ 2023-08-12 🛫 2023-08-15 ✅ 2023-08-20
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday ➕ 2023-08-01 🛫 2023-08-09 ✅ 2023-08-12
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday ➕ 2023-07-30 🛫 2023-08-01 ✅ 2023-08-01
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday ➕ 2023-07-18 🛫 2023-07-25 ✅ 2023-07-30
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday ➕ 2023-07-12 🛫 2023-07-18 ✅ 2023-07-18
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday ➕ 2023-07-10 🛫 2023-07-11 ✅ 2023-07-12
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday ➕ 2023-07-10 🛫 2023-07-04 ✅ 2023-07-10
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday ➕ 2023-07-10 🛫 2023-06-27 ✅ 2023-07-10
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday ➕ 2023-06-17 🛫 2023-06-20 ✅ 2023-07-10
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday 🛫 2023-06-15 ✅ 2023-06-17
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday 🛫 2023-05-23 ✅ 2023-05-24
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday 🛫 2023-05-17 ✅ 2023-05-20
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday 🛫 2023-05-09 ✅ 2023-05-13
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday 🛫 2023-05-02 ✅ 2023-05-02
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday 🛫 2023-04-26 ✅ 2023-04-26
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday 🛫 2023-03-28 ✅ 2023-03-28
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday 🛫 2023-03-21 ✅ 2023-03-22
+- [x] #task #small Push brokerage order 🔁 every week on Tuesday 🛫 2023-03-14 ✅ 2023-03-18
+- [ ] #task Clean laptop, phone and ipad screens, and laptop keyboard #home 🔁 every 2 weeks when done ➕ 2024-04-18 🛫 2024-07-10
+- [x] #task Clean laptop, phone and ipad screens, and laptop keyboard #home 🔁 every 2 weeks when done ➕ 2024-03-29 🛫 2024-04-12 ✅ 2024-04-18
+- [x] #task Clean laptop, phone and ipad screens, and laptop keyboard #home 🔁 every 2 weeks when done ➕ 2024-03-09 🛫 2024-03-25 ✅ 2024-03-29
+- [x] #task Clean laptop, phone and ipad screens, and laptop keyboard #home 🔁 every 2 weeks when done ➕ 2024-02-19 🛫 2024-03-07 ✅ 2024-03-09
+- [x] #task Clean laptop, phone and ipad screens, and laptop keyboard #home 🔁 every 2 weeks when done ➕ 2024-02-03 🛫 2024-02-17 ✅ 2024-02-19
+- [x] #task Clean laptop, phone and ipad screens, and laptop keyboard #home 🔁 every 2 weeks when done ➕ 2024-01-20 🛫 2024-02-03 ✅ 2024-02-03
+- [x] #task Clean laptop, phone and ipad screens, and laptop keyboard #home 🔁 every 2 weeks when done ➕ 2024-01-04 🛫 2024-01-18 ✅ 2024-01-20
+- [x] #task Clean laptop, phone and ipad screens, and laptop keyboard #home 🔁 every 2 weeks when done ➕ 2023-12-19 🛫 2024-01-02 ✅ 2024-01-04
+- [x] #task Clean laptop, phone and ipad screens, and laptop keyboard #home 🔁 every 2 weeks when done ➕ 2023-12-05 🛫 2023-12-19 ✅ 2023-12-19
+- [x] #task Clean laptop, phone and ipad screens, and laptop keyboard #home 🔁 every 2 weeks when done ➕ 2023-09-20 🛫 2023-10-04 ✅ 2023-12-05
+- [x] #task Clean laptop, phone and ipad screens, and laptop keyboard 🔁 every 2 weeks when done 🛫 2023-09-08 ✅ 2023-09-20
+- [x] #task #small Clean laptop keyboard and laptop, phone and ipad screens 🔁 every 2 weeks when done 🛫 2023-06-08 ✅ 2023-06-08
+- [ ] #task Make once-off purchases 🔁 every 2 weeks when done ➕ 2024-05-19 🛫 2024-07-10
+- [x] #task Make once-off purchases 🔁 every 2 weeks when done ➕ 2024-05-05 🛫 2024-05-19 ✅ 2024-05-19
+- [x] #task Make once-off purchases 🔁 every 2 weeks when done ➕ 2024-04-18 🛫 2024-05-02 ✅ 2024-05-05
+- [x] #task Make once-off purchases 🔁 every 2 weeks when done ➕ 2024-04-03 🛫 2024-04-17 ✅ 2024-04-18
+- [x] #task Make once-off purchases 🔁 every 2 weeks when done ➕ 2024-03-19 🛫 2024-04-02 ✅ 2024-04-03
+- [x] #task Make once-off purchases 🔁 every 2 weeks when done ➕ 2024-03-05 🛫 2024-03-19 ✅ 2024-03-19
+- [x] #task Make once-off purchases 🔁 every 2 weeks when done ➕ 2024-02-19 🛫 2024-03-05 ✅ 2024-03-05
+- [x] #task Make once-off purchases 🔁 every 2 weeks when done ➕ 2024-01-18 🛫 2024-02-10 ✅ 2024-02-19
+- [x] #task Make once-off purchases 🔁 every 2 weeks when done ➕ 2024-01-04 🛫 2024-01-18 ✅ 2024-01-18
+- [x] #task Make once-off purchases 🔁 every 2 weeks when done ➕ 2023-12-13 🛫 2023-12-27 ✅ 2024-01-04
+- [x] #task Make once-off purchases 🔁 every 2 weeks when done ➕ 2023-11-28 🛫 2023-12-12 ✅ 2023-12-13
+- [x] #task Make once-off purchases 🔁 every 2 weeks when done ➕ 2023-11-12 🛫 2023-11-26 ✅ 2023-11-28
+- [x] #task Make once-off purchases 🔁 every 2 weeks when done ➕ 2023-10-10 🛫 2023-10-24 ✅ 2023-11-12
+- [x] #task Make once-off purchases 🔁 every 2 weeks when done ➕ 2023-09-26 🛫 2023-10-10 ✅ 2023-10-10
+- [x] #task Make once-off purchases 🔁 every 2 weeks when done ➕ 2023-09-11 🛫 2023-09-25 ✅ 2023-09-26
+- [x] #task Make once-off purchases 🔁 every 2 weeks when done ➕ 2023-08-26 🛫 2023-09-09 ✅ 2023-09-11
+- [x] #task #small Make once-off purchases 🔁 every 2 weeks when done ➕ 2023-08-03 🛫 2023-08-17 ✅ 2023-08-26
+- [x] #task #small Make once-off purchases 🔁 every 2 weeks when done ➕ 2023-07-15 🛫 2023-07-29 ✅ 2023-08-03
+- [x] #task #small Make once-off purchases 🔁 every 2 weeks when done ➕ 2023-06-19 🛫 2023-07-03 ✅ 2023-07-15
+- [x] #task #small Make once-off purchases 🔁 every 2 weeks when done 🛫 2023-06-17 ✅ 2023-06-19
+- [x] #task #small Make once-off purchases 🔁 every 2 weeks when done 🛫 2023-06-03 ✅ 2023-06-03
+- [x] #task #small Make once-off purchases 🔁 every 2 weeks when done 🛫 2023-05-13 ✅ 2023-05-20
+- [x] #task #small Add new lesson stuff to jujutsu cards 🛫 2023-05-15 ✅ 2023-06-07
+- [x] #task #small Add new lesson stuff to jujutsu cards 🔁 every week on Monday 🛫 2023-05-08 ✅ 2023-05-13
+- [x] #task #small Add new lesson stuff to jujutsu cards 🔁 every week on Monday 🛫 2023-05-01 ✅ 2023-05-13
+- [ ] #task Get a hair cut 🔁 every 8 weeks when done ➕ 2024-05-05 🛫 2024-06-30
+- [x] #task Get a hair cut 🔁 every 8 weeks when done ➕ 2024-02-07 🛫 2024-04-29 ✅ 2024-05-05
+- [x] #task Get a hair cut 🔁 every 8 weeks when done ➕ 2023-12-07 🛫 2024-02-04 ✅ 2024-02-07
+- [x] #task Get a hair cut 🔁 every 8 weeks when done ➕ 2023-09-26 🛫 2023-12-06 ✅ 2023-12-07
+- [x] #task Get a hair cut 🔁 every 8 weeks when done ➕ 2023-06-19 🛫 2023-09-20 ✅ 2023-09-26
+- [x] #task #small Get a hair cut 🔼 🔁 every 8 weeks when done 🛫 2023-06-19 ✅ 2023-06-19
+- [x] #task #small Get a hair cut 🔁 every 2 months when done 🛫 2023-03-12 ✅ 2023-04-16
+- [x] #task #small Get a hair cut 🔁 every month when done 🛫 2023-03-12 ✅ 2023-03-12
+  %% - [ ] #task Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done ➕ 2024-03-17 🛫 2024-03-29 %%
+- [x] #task Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done ➕ 2024-03-05 🛫 2024-03-17 ✅ 2024-03-17
+- [x] #task Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done ➕ 2024-02-19 🛫 2024-03-05 ✅ 2024-03-05
+- [x] #task Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done ➕ 2024-02-01 🛫 2024-02-13 ✅ 2024-02-19
+- [x] #task Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done ➕ 2024-01-14 🛫 2024-01-27 ✅ 2024-02-01
+- [x] #task Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done ➕ 2023-12-30 🛫 2024-01-14 ✅ 2024-01-14
+- [x] #task Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done ➕ 2023-12-10 🛫 2023-12-22 ✅ 2023-12-30
+- [x] #task Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done ➕ 2023-11-23 🛫 2023-12-06 ✅ 2023-12-10
+- [x] #task Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done ➕ 2023-11-09 🛫 2023-11-21 ✅ 2023-11-23
+- [x] #task Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done ➕ 2023-10-21 🛫 2023-11-02 ✅ 2023-11-09
+- [x] #task Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done ➕ 2023-09-26 🛫 2023-10-08 ✅ 2023-10-21
+- [x] #task Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done ➕ 2023-09-11 🛫 2023-09-23 ✅ 2023-09-26
+- [x] #task Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done ➕ 2023-08-26 🛫 2023-09-09 ✅ 2023-09-11
+- [x] #task #small Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done ➕ 2023-08-06 🛫 2023-08-18 ✅ 2023-08-26
+- [x] #task #small Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done ➕ 2023-07-22 🛫 2023-08-04 ✅ 2023-08-06
+- [x] #task #small Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done ➕ 2023-07-10 🛫 2023-07-22 ✅ 2023-07-22
+- [x] #task #small Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done 🛫 2023-06-23 ✅ 2023-07-10
+- [x] #task #small Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done 🛫 2023-06-11 ✅ 2023-06-11
+- [x] #task #small Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done 🛫 2023-05-25 ✅ 2023-05-25
+- [x] #task #small Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done 🛫 2023-05-12 ✅ 2023-05-13
+- [x] #task #small Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 12 days when done 🛫 2023-04-30 ✅ 2023-04-30
+- [x] #task #small Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 9 days when done 🛫 2023-04-04 ✅ 2023-04-16
+- [x] #task #small Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 9 days when done 🛫 2023-03-23 ✅ 2023-03-26
+- [x] #task #small Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 9 days when done 🛫 2023-03-09 ✅ 2023-03-10
+- [x] #task #small Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 9 days when done 🛫 2023-02-24 ✅ 2023-02-28
+- [x] #task #small Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 9 days when done 🛫 2023-02-07 ✅ 2023-02-15
+- [x] #task #small Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 9 days when done 🛫 2023-01-27 ✅ 2023-01-29
+- [x] #task #small Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 9 days when done 🛫 2023-01-14 ✅ 2023-01-18
+- [x] #task #small Buy [[202110131606 - Weekly Shopping Note|Groceries]] 🔁 every 9 days when done 🛫 2023-01-01 ✅ 2023-01-05
+- [ ] #task Cut nails #home 🔁 every 3 weeks when done ➕ 2024-07-09 🛫 2024-07-30
+- [x] #task Cut nails #home 🔁 every 3 weeks when done ➕ 2024-06-13 🛫 2024-07-04 ✅ 2024-07-09
+- [x] #task Cut nails #home 🔁 every 3 weeks when done ➕ 2024-05-21 🛫 2024-06-11 ✅ 2024-06-13
+- [x] #task Cut nails #home 🔁 every 3 weeks when done ➕ 2024-04-28 🛫 2024-05-19 ✅ 2024-05-21
+- [x] #task Cut nails #home 🔁 every 3 weeks when done ➕ 2024-04-07 🛫 2024-04-28 ✅ 2024-04-28
+- [x] #task Cut nails #home 🔁 every 3 weeks when done ➕ 2024-03-16 🛫 2024-04-06 ✅ 2024-04-07
+- [x] #task Cut nails #home 🔁 every 3 weeks when done ➕ 2024-02-23 🛫 2024-03-15 ✅ 2024-03-16
+- [x] #task Cut nails #home 🔁 every 3 weeks when done ➕ 2024-01-31 🛫 2024-02-21 ✅ 2024-02-23
+- [x] #task Cut nails #home 🔁 every 3 weeks when done ➕ 2024-01-05 🛫 2024-01-27 ✅ 2024-01-31
+- [x] #task Cut nails #home 🔁 every 3 weeks when done ➕ 2023-12-04 🛫 2023-12-25 ✅ 2024-01-05
+- [x] #task Cut nails #home 🔁 every 3 weeks when done ➕ 2023-11-11 🛫 2023-12-02 ✅ 2023-12-04
+- [x] #task Cut nails 🔁 every 3 weeks when done ➕ 2023-10-21 🛫 2023-11-11 ✅ 2023-11-11
+- [x] #task Cut nails 🔁 every 3 weeks when done ➕ 2023-09-20 🛫 2023-10-11 ✅ 2023-10-21
+- [x] #task Cut nails 🔁 every 3 weeks when done ➕ 2023-08-29 🛫 2023-09-19 ✅ 2023-09-20
+- [x] #task Cut nails 🔁 every 3 weeks when done ➕ 2023-08-08 🛫 2023-08-29 ✅ 2023-08-29
+- [x] #task #small Cut nails 🔁 every 3 weeks when done ➕ 2023-07-15 🛫 2023-08-05 ✅ 2023-08-08
+- [x] #task #small Cut nails 🔁 every 3 weeks when done ➕ 2023-06-17 🛫 2023-07-15 ✅ 2023-07-15
+- [x] #task #small Cut nails 🔁 every 3 weeks when done 🛫 2023-06-15 ✅ 2023-06-17
+- [x] #task #small Cut nails 🔁 every 3 weeks when done 🛫 2023-05-23 ✅ 2023-05-25
+- [x] #task #small Cut nails 🔁 every 3 weeks when done 🛫 2023-05-01 ✅ 2023-05-02
+- [x] #task #small Cut nails 🔁 every 3 weeks when done 🛫 2023-03-31 ✅ 2023-04-10
+- [x] #task #small Cut nails 🔁 every 3 weeks when done 🛫 2023-03-10 ✅ 2023-03-10
+- [x] #task  #small Cut nails 🔁 every 3 weeks when done 🛫 2023-02-11 ✅ 2023-02-15
+- [x] #task  #small Cut nails 🔁 every 2 weeks when done 🛫 2023-01-14 ✅ 2023-01-21
+- [x] #task  #small Cut nails 🔁 every 2 weeks when done 🛫 2022-12-25 ✅ 2022-12-27
+- [ ] #task #small wash the mattress protector #home 🔁 every 32 days when done ➕ 2024-05-09 🛫 2024-06-10
+- [x] #task #small wash the mattress protector #home 🔁 every 32 days when done ➕ 2024-04-07 🛫 2024-05-10 ✅ 2024-05-09
+- [x] #task #small wash the mattress protector #home 🔁 every 32 days when done ➕ 2024-02-27 🛫 2024-03-30 ✅ 2024-04-07
+- [x] #task #small wash the mattress protector #home 🔁 every 32 days when done ➕ 2024-01-18 🛫 2024-02-26 ✅ 2024-02-27
+- [x] #task #small wash the mattress protector #home 🔁 every 32 days when done ➕ 2023-06-16 🛫 2024-01-18 ✅ 2024-01-18
+- [ ] #task #small (unless close to Friday) wash older pillow protector #home 🔁 every 32 days when done ➕ 2024-04-07 🛫 2024-05-24
+- [x] #task #small (unless close to Friday) wash older pillow protector #home 🔁 every 32 days when done ➕ 2024-02-27 🛫 2024-03-30 ✅ 2024-04-07
+- [x] #task #small (unless close to Friday) wash older pillow protector #home 🔁 every 32 days when done ➕ 2024-01-13 🛫 2024-02-26 ✅ 2024-02-27
+- [x] #task #small (unless close to Friday) wash older pillow protector #home 🔁 every 32 days when done ➕ 2023-06-16 🛫 2024-01-12 ✅ 2024-01-13
+- [ ] #task #small (unless close to Friday) wash newer pillow protector #home 🔁 every 64 days when done ➕ 2024-05-09 🛫 2024-07-12
+- [x] #task #small (unless close to Friday) wash newer pillow protector #home 🔁 every 64 days when done ➕ 2024-02-01 🛫 2024-05-10 ✅ 2024-05-09
+- [x] #task #small (unless close to Friday) wash newer pillow protector #home 🔁 every 64 days when done ➕ 2023-12-05 🛫 2024-02-01 ✅ 2024-02-01
+- [x] #task #small (unless close to Friday) wash newer pillow protector #home 🔁 every 32 days when done ➕ 2023-06-16 🛫 2023-12-04 ✅ 2023-12-05
+- [ ] #task Wash clothes #home 🔁 every 4 days when done ➕ 2024-06-13 🛫 2024-06-17
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2024-06-01 🛫 2024-06-05 ✅ 2024-06-13
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2024-05-21 🛫 2024-05-30 ✅ 2024-06-01
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2024-05-14 🛫 2024-05-20 ✅ 2024-05-21
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2024-05-09 🛫 2024-05-13 ✅ 2024-05-14
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2024-04-28 🛫 2024-05-10 ✅ 2024-05-09
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2024-04-18 🛫 2024-04-25 ✅ 2024-04-28
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2024-04-07 🛫 2024-04-11 ✅ 2024-04-18
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2024-03-25 🛫 2024-04-01 ✅ 2024-04-07
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2024-03-17 🛫 2024-03-25 ✅ 2024-03-25
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2024-03-10 🛫 2024-03-17 ✅ 2024-03-17
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2024-03-06 🛫 2024-03-10 ✅ 2024-03-10
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2024-02-27 🛫 2024-03-06 ✅ 2024-03-06
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2024-02-23 🛫 2024-02-27 ✅ 2024-02-27
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2024-02-09 🛫 2024-02-20 ✅ 2024-02-23
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2024-01-31 🛫 2024-02-04 ✅ 2024-02-09
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2024-01-25 🛫 2024-01-29 ✅ 2024-01-31
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2024-01-20 🛫 2024-01-24 ✅ 2024-01-25
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2024-01-13 🛫 2024-01-18 ✅ 2024-01-20
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2024-01-04 🛫 2024-01-12 ✅ 2024-01-13
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2023-12-17 🛫 2023-12-21 ✅ 2024-01-04
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2023-12-13 🛫 2023-12-17 ✅ 2023-12-17
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2023-12-09 🛫 2023-12-13 ✅ 2023-12-13
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2023-12-05 🛫 2023-12-09 ✅ 2023-12-09
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2023-11-27 🛫 2023-12-01 ✅ 2023-12-05
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2023-11-14 🛫 2023-11-26 ✅ 2023-11-27
+- [x] #task Wash clothes #home 🔁 every 4 days when done ➕ 2023-11-10 🛫 2023-11-14 ✅ 2023-11-14
+- [x] #task Wash clothes 🔁 every 4 days when done ➕ 2023-10-11 🛫 2023-11-10 ✅ 2023-11-10
+- [x] #task Wash clothes 🔁 every 4 days when done ➕ 2023-10-01 🛫 2023-10-05 ✅ 2023-10-11
+- [x] #task Wash clothes 🔁 every 4 days when done ➕ 2023-09-20 🛫 2023-09-27 ✅ 2023-10-01
+- [x] #task Wash clothes 🔁 every 4 days when done ➕ 2023-09-16 🛫 2023-09-20 ✅ 2023-09-20
+- [x] #task Wash clothes 🔁 every 4 days when done ➕ 2023-09-11 🛫 2023-09-15 ✅ 2023-09-16
+- [x] #task Wash clothes 🔁 every 4 days when done ➕ 2023-09-03 🛫 2023-09-08 ✅ 2023-09-11
+- [x] #task Wash clothes 🔁 every 4 days when done ➕ 2023-08-20 🛫 2023-08-24 ✅ 2023-09-03
+- [x] #task #small Wash clothes 🔁 every 4 days when done ➕ 2023-08-12 🛫 2023-08-16 ✅ 2023-08-20
+- [x] #task #small Wash clothes 🔁 every 4 days when done ➕ 2023-08-08 🛫 2023-08-12 ✅ 2023-08-12
+- [x] #task #small Wash clothes 🔁 every 4 days when done ➕ 2023-07-30 🛫 2023-08-04 ✅ 2023-08-08
+- [x] #task #small Wash clothes 🔁 every 4 days when done ➕ 2023-07-18 🛫 2023-07-25 ✅ 2023-07-30
+- [x] #task #small Wash clothes 🔁 every 4 days when done ➕ 2023-06-19 🛫 2023-06-23 ✅ 2023-07-18
+- [x] #task #small Wash clothes 🔁 every 4 days when done ➕ 2023-06-15 🛫 2023-06-19 ✅ 2023-06-19
+- [x] #task #small Wash clothes 🔁 every 4 days when done 🛫 2023-06-15 ✅ 2023-06-15
+- [x] #task #small Wash clothes 🔁 every 4 days when done 🛫 2023-06-09 ✅ 2023-06-11
+- [x] #task #small Wash clothes 🔁 every 4 days when done 🛫 2023-06-02 ✅ 2023-06-03
+- [x] #task #small Wash clothes 🔁 every 4 days when done 🛫 2023-05-25 ✅ 2023-05-29
+- [x] #task #small Wash clothes 🔁 every 4 days when done 🛫 2023-05-21 ✅ 2023-05-21
+- [x] #task #small Wash clothes 🔁 every week when done 🛫 2023-04-30 ✅ 2023-05-02
+- [x] #task #small Wash clothes 🔁 every week when done 🛫 2023-04-17 ✅ 2023-04-21
+- [x] #task #small Wash clothes 🔁 every week when done 🛫 2023-04-05 ✅ 2023-04-10
+- [x] #task #small Wash clothes 🔁 every week when done 🛫 2023-03-29 ✅ 2023-03-29
+- [x] #task #small Wash clothes 🔁 every week when done 🛫 2023-03-18 ✅ 2023-03-18
+- [x] #task #small Wash clothes 🔁 every week when done 🛫 2023-03-10 ✅ 2023-03-11
+- [x] #task #small Wash clothes 🔁 every week when done 🛫 2023-02-28 ✅ 2023-02-28
+- [x] #task #small Wash clothes 🔁 every week when done 🛫 2023-02-20 ✅ 2023-02-21
+- [x] #task #small Wash clothes 🔁 every week when done 🛫 2023-01-28 ✅ 2023-02-13
+- [x] #task #small Wash clothes 🔁 every week when done 🛫 2023-01-18 ✅ 2023-01-21
+- [x] #task #small Wash clothes 🔁 every week when done 🛫 2023-01-11 ✅ 2023-01-11
+- [x] #task #small Wash clothes 🔁 every week when done 🛫 2023-01-03 ✅ 2023-01-04
+- [x] #task #small Wash clothes 🔁 every week when done 🛫 2022-12-22 ✅ 2022-12-27
+- [x] #task #small Wash clothes 🔁 every week when done 🛫 2022-12-15 ✅ 2022-12-15
