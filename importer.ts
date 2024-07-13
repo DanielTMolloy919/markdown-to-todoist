@@ -13,7 +13,7 @@ const parseMarkdownToCSV = (markdown: string): string => {
 
         const date = task.startDate ? task.startDate.format('MMM D YYYY') : '';
 
-        let recurring = task.recurrence ? task.recurrence.rrule.toText() : '';
+        let recurring = task.recurrence ? task.recurrence.rrule.toText().replace('week on ','') : '';
 
         if (task.recurrence?.baseOnToday) {
             recurring = recurring.replace("every", "every!");
@@ -22,19 +22,22 @@ const parseMarkdownToCSV = (markdown: string): string => {
 
         const row = [
             'task',
-            task.descriptionWithoutTags,
+            task.descriptionWithoutTags.replace(/,/g, ''),
             '',
             priority > 5 ? priority.toString() : "4",
             "1",
             "stracharater (10283909)",
+            '',
             recurring || date,
+            "en",
+            "Australia/Sydney",
+            '',
+            '',
         ];
         csvRows.push(row.join(','));
     }
 
-    console.log(csvRows.join('\n'));
-
-    return "";
+    return csvRows.join('\n');
 };
 
 const convertMarkdownTodosToCSV = async (markdownFilePath: string, csvFilePath: string): Promise<void> => {
