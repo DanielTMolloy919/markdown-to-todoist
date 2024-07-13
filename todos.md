@@ -478,8 +478,6 @@
 - [x] #task How much money would we save by doing new zealand in 6 months? ⏫ ➕ 2023-11-12 📅 2023-11-14 ✅ 2023-11-14
 - [x] #task draw out actionable items from [[Reflection on 2023]] ➕ 2023-11-12 🛫 2024-03-01 ✅ 2024-03-01
 - [x] #task get back to Lisa about how many hours I want to work 🔼 ➕ 2023-11-12 🛫 2023-11-15 ✅ 2023-11-15
-    - Having more spare time is always better than less
-    - What does the extra ten hours get me - an extra $190 a week
 - [x] #task buy new shorts ➕ 2023-11-12 ✅ 2023-12-11
 - [x] #task Replace student card ➕ 2023-11-12 🛫 2023-11-16 ✅ 2023-11-16
 - [ ] #task Enrol in sem 2 before it closes 🔁 every year ➕ 2024-06-01 🛫 2025-05-24 📅 2025-06-02
