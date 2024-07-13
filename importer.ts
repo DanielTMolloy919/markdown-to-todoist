@@ -1,6 +1,5 @@
 import {promises as fs} from 'fs';
 import {importObsidianFile} from "./obsidian-interface";
-import {Priority} from "./obsidian/Priority";
 
 const parseMarkdownToCSV = (markdown: string): string => {
     const tasks = importObsidianFile(markdown, 'path').filter(task => !task.isDone);
@@ -46,11 +45,9 @@ const convertMarkdownTodosToCSV = async (markdownFilePath: string, csvFilePath: 
         const csvContent = parseMarkdownToCSV(markdownContent);
         await fs.writeFile(csvFilePath, csvContent);
         console.log(`Converted ${markdownFilePath} to ${csvFilePath}`);
-        ``
     } catch (error) {
         console.error('Error converting markdown todos to CSV:', error);
     }
 };
 
-// Example usage
 convertMarkdownTodosToCSV('todos.md', 'todos.csv');
