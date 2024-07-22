@@ -11,6 +11,9 @@ importers:
       chrono-node:
         specifier: ^2.7.6
         version: 2.7.6
+      date-fns:
+        specifier: ^3.6.0
+        version: 3.6.0
       moment:
         specifier: ^2.30.1
         version: 2.30.1
@@ -77,6 +80,9 @@ packages:
 
   create-require@1.1.1:
     resolution: {integrity: sha512-dcKFX3jn0MpIaXjisoRvexIJVEKzaq7z2rZKxf+MSr9TkdmHmsU4m2lcLojrj/FHl8mk5VxMmYA+ftRkP/3oKQ==}
+
+  date-fns@3.6.0:
+    resolution: {integrity: sha512-fRHTG8g/Gif+kSh50gaGEdToemgfj74aRX3swtiouboip5JDLAyDE9F11nHMIcvOaXeOC6D7SpNhi7uFyB7Uww==}
 
   dayjs@1.11.11:
     resolution: {integrity: sha512-okzr3f11N6WuqYtZSvm+F776mB41wRZMhKP+hc34YdW+KmtYYK9iqvHSwo2k9FEH3fhGXvOPV6yz2IcSrfRUDg==}
@@ -161,6 +167,8 @@ snapshots:
       dayjs: 1.11.11
 
   create-require@1.1.1: {}
+
+  date-fns@3.6.0: {}
 
   dayjs@1.11.11: {}
 
