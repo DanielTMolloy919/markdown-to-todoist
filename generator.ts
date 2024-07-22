@@ -1,5 +1,4 @@
 import {promises as fs} from 'fs';
-import {importObsidianFile} from "./obsidian-interface";
 import {addDays, format} from "date-fns";
 
 type Task = {
@@ -8,7 +7,7 @@ type Task = {
     priority: number,
 }
 
-const taskToRow = (task: Task): string => {
+function taskToRow(task: Task): string {
     const {date, description, priority} = task;
 
     const row = [
@@ -33,23 +32,23 @@ type Schedule = {
     description: string,
     startDate: Date,
     duration: number,
+    start?: number,
     skips: Date[],
 }
 
 function scheduleToCSV(schedule: Schedule): string[] {
     const rows = [];
-    const {startDate, duration, skips} = schedule;
+    const {description, startDate, duration, skips, start} = schedule;
 
-    let i = 1;
     let date = startDate;
+    let weekCounter = start || 1;
+    const endWeek = weekCounter + duration - 1;
 
-    while (i <= duration) {
-        // if the date is in the same week as a skip, skip it
+    while (weekCounter <= endWeek) {
         if (!skips.some(skip => format(skip, 'w') === format(date, 'w'))) {
-            rows.push(taskToRow({date, description: `${schedule.description} Week ${i}`, priority: 4}));
-            i++;
+            rows.push(taskToRow({date, description: `${description} Week ${weekCounter}`, priority: 4}));
+            weekCounter++;
         }
-
         date = addDays(date, 7);
     }
 
@@ -57,9 +56,22 @@ function scheduleToCSV(schedule: Schedule): string[] {
 }
 
 async function main() {
-    const lectureRows = scheduleToCSV({
-        description: 'SENG2250 Lecture',
-        startDate: new Date(2024, 6, 24),
+    const csvRows = ["TYPE,CONTENT,DESCRIPTION,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG,TIMEZONE,DURATION,DURATION_UNIT"]
+
+    // const lecRows2250 = scheduleToCSV({
+    //     description: 'SENG2250 Lecture',
+    //     startDate: new Date(2024, 6, 23),
+    //     duration: 13,
+    //     skips: [
+    //         new Date(2024, 7, 26),
+    //         new Date(2022, 8, 30),
+    //     ],
+    // })
+
+
+    const lecRows4500 = scheduleToCSV({
+        description: 'SENG4500 Lecture',
+        startDate: new Date(2024, 6, 26),
         duration: 13,
         skips: [
             new Date(2024, 7, 26),
@@ -67,8 +79,22 @@ async function main() {
         ],
     })
 
+    const workshopRows4500 = scheduleToCSV({
+        description: 'SENG4500 Workshop',
+        startDate: new Date(2024, 6, 29),
+        duration: 12,
+        start: 2,
+        skips: [
+            new Date(2024, 7, 26),
+            new Date(2022, 8, 30),
+        ],
+    })
+
+    csvRows.push(...lecRows4500);
+    csvRows.push(...workshopRows4500);
+
     try {
-        await fs.writeFile("todos.csv", lectureRows.join('\n'));
+        await fs.writeFile("todos.csv", csvRows.join('\n'));
     } catch (error) {
         console.error('Error converting markdown todos to CSV:', error);
     }
